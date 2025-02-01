@@ -1,97 +1,45 @@
-# Cybersecurity Program Projects
+# Cybersecurity Projects
 
-This page showcases the projects completed during my cybersecurity program, organized by module.
-
----
-
-## Module 1: Fundamentals
-
-### Network Configuration
-**Project:**  
-Analyze a network for security flaws and generate a plan to update it according to best security practices.
+This page outlines projects completed during my cybersecurity program. Click on any project title to view a dedicated page with more details about the project and the associated skillset.
 
 ---
 
-### Scanning and Enumeration
-**Project:**  
-Interpret results from standard scanning and enumeration tools to create an accurate CMDB listing of the company’s assets.
+## Incident Response
+
+### [Identifying Common Threats and Attack Vectors](incident-response-threats.md)
+*Threat model a company based on a list of assets and recommend an effective mitigation strategy to reduce the attack surface.*
+
+### [Incident Response](incident-response-plan.md)
+*Review and revise an incident response plan for a client that suffered a ransomware attack, aligning it with NIST standards.*
 
 ---
 
-### Cyber Security Frameworks
-**Project:**  
-Assess the cybersecurity posture of a medium-sized business and develop an effective mitigation plan using NIST CSF.
+## Vulnerability Management
+
+### [Network Hardening and Virtualization](vulnerability-network-hardening.md)
+*Modernize an outdated network securely by implementing virtualization strategies while preparing for future cloud adoption.*
+
+### [Vulnerability Assessment](vulnerability-assessment.md)
+*Conduct a vulnerability assessment for a newly onboarded client to an MSSP’s SOC and prepare a formal report.*
+
+### [Vulnerability Exploitation](vulnerability-exploitation.md)
+*Perform penetration tests to confirm critical vulnerabilities identified in the assessment phase.*
+
+### [Vulnerability Remediation](vulnerability-remediation.md)
+*Select and implement appropriate remediation strategies based on confirmed vulnerabilities.*
 
 ---
 
-## Module 2: Incident Response
+## Investigating Incidents
 
-### Identifying Common Threats and Attack Vectors
-**Project:**  
-Threat model a company based on a list of assets and recommend an effective mitigation strategy to reduce the attack surface.
+### [Managing Networks Securely](investigating-managing-networks.md)
+*Set up a continuous monitoring system for a business upgrading its infrastructure, ensuring that security logs are properly ingested.*
 
----
+### [Alerts and Anomalies](investigating-alerts.md)
+*Investigate alerts from a cybersecurity monitoring system, differentiate between real threats and false positives, and develop response plans.*
 
-### Incident Response
-**Project:**  
-Review and revise a poorly implemented incident response plan for a client that suffered a ransomware attack, aligning it with NIST standards.
+### [Detecting Complex Attacks](investigating-detecting-attacks.md)
+*Analyze a major security incident using a SIEM and leverage the MITRE ATT&CK framework to map the attacker’s tactics, techniques, and procedures.*
 
----
-
-## Module 3: Vulnerability Management
-
-### Network Hardening and Virtualization
-**Project:**  
-Modernize a neglected, outdated network securely by implementing virtualization strategies while preparing for future cloud adoption.
-
----
-
-### Vulnerability Assessment
-**Project:**  
-Conduct a vulnerability assessment for a newly added client company to an MSSP’s SOC and prepare a formal report.
-
----
-
-### Vulnerability Exploitation
-**Project:**  
-Perform penetration tests to confirm critical vulnerabilities identified in the previous assessment.
-
----
-
-### Vulnerability Remediation
-**Project:**  
-Choose and implement appropriate remediation strategies based on confirmed vulnerabilities.
-
----
-
-## Module 4: Investigating Incidents
-
-### Managing Networks Securely
-**Project:**  
-Set up a continuous monitoring system for a business upgrading its infrastructure, ensuring security logs are correctly ingested.
-
----
-
-### Alerts and Anomalies
-**Project:**  
-Investigate alerts from a company's cybersecurity monitoring system, distinguish between real threats and false positives, and develop response plans.
-
----
-
-### Detecting Complex Attacks
-**Project:**  
-Investigate a major security incident using a SIEM, leveraging the MITRE ATT&CK framework to map the attacker's TTPs.
-
----
-
-### Investigating Incidents
-**Project:**  
-Write a formal report detailing findings from an incident investigation and recommended response actions.
-
----
-
-## Module 5: CompTIA Security+
-
-### CompTIA Security+ Exam Preparation
-**Project:**  
-Obtain the CompTIA Security+ certification.
+### [Investigating Incidents](investigating-incidents.md)
+*Compile a detailed report summarizing findings from an incident investigation and recommend appropriate response actions.*
