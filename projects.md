@@ -1,45 +1,48 @@
-# Cybersecurity Projects
+# **Cybersecurity Projects**  
+🚀 **Hands-on Security Implementations & Real-World Problem Solving**  
+This page showcases key projects from my cybersecurity training, demonstrating expertise in **incident response, vulnerability management, and threat detection**. Click on any project title to explore its technical breakdown and impact.  
 
-This page outlines projects completed during my cybersecurity program. Click on any project title to view a dedicated page with more details about the project and the associated skillset.
+---  
 
----
+## **🛡️ Incident Response**  
+🔹 **[Identifying Common Threats and Attack Vectors](incident-response-threats.md)**  
+*Threat model an organization, assess risks, and develop a mitigation strategy to reduce attack surface.*  
 
-## Incident Response
+🔹 **[Incident Response Plan Optimization](incident-response-plan.md)**  
+*Revise and strengthen a ransomware incident response plan, aligning it with NIST standards for improved security readiness.*  
 
-### [Identifying Common Threats and Attack Vectors](incident-response-threats.md)
-*Threat model a company based on a list of assets and recommend an effective mitigation strategy to reduce the attack surface.*
+---  
 
-### [Incident Response](incident-response-plan.md)
-*Review and revise an incident response plan for a client that suffered a ransomware attack, aligning it with NIST standards.*
+## **🔍 Vulnerability Management**  
+🔹 **[Network Hardening & Virtualization](vulnerability-network-hardening.md)**  
+*Modernize legacy network infrastructure by implementing virtualization strategies for scalable security.*  
 
----
+🔹 **[Comprehensive Vulnerability Assessment](vulnerability-assessment.md)**  
+*Conduct and document a vulnerability assessment for an MSSP’s newly onboarded client to enhance security posture.*  
 
-## Vulnerability Management
+🔹 **[Penetration Testing & Exploitation](vulnerability-exploitation.md)**  
+*Perform penetration tests to verify and exploit critical vulnerabilities identified during assessments.*  
 
-### [Network Hardening and Virtualization](vulnerability-network-hardening.md)
-*Modernize an outdated network securely by implementing virtualization strategies while preparing for future cloud adoption.*
+🔹 **[Vulnerability Remediation Strategy](vulnerability-remediation.md)**  
+*Implement targeted remediation strategies to address identified vulnerabilities and enhance resilience.*  
 
-### [Vulnerability Assessment](vulnerability-assessment.md)
-*Conduct a vulnerability assessment for a newly onboarded client to an MSSP’s SOC and prepare a formal report.*
+---  
 
-### [Vulnerability Exploitation](vulnerability-exploitation.md)
-*Perform penetration tests to confirm critical vulnerabilities identified in the assessment phase.*
+## **🔎 Investigating Incidents & Threat Hunting**  
+🔹 **[Managing Secure Networks](investigating-managing-networks.md)**  
+*Deploy a continuous monitoring system to enhance network visibility and ensure security log ingestion.*  
 
-### [Vulnerability Remediation](vulnerability-remediation.md)
-*Select and implement appropriate remediation strategies based on confirmed vulnerabilities.*
+🔹 **[Alert Triage & Anomaly Detection](investigating-alerts.md)**  
+*Analyze security alerts to differentiate real threats from false positives and develop response workflows.*  
 
----
+🔹 **[Detecting Advanced Cyber Attacks](investigating-detecting-attacks.md)**  
+*Leverage a SIEM system and the MITRE ATT&CK framework to investigate and map attacker tactics, techniques, and procedures.*  
 
-## Investigating Incidents
+🔹 **[Incident Investigation & Reporting](investigating-incidents.md)**  
+*Conduct an in-depth incident analysis and compile a professional report with actionable recommendations.*  
 
-### [Managing Networks Securely](investigating-managing-networks.md)
-*Set up a continuous monitoring system for a business upgrading its infrastructure, ensuring that security logs are properly ingested.*
+---  
 
-### [Alerts and Anomalies](investigating-alerts.md)
-*Investigate alerts from a cybersecurity monitoring system, differentiate between real threats and false positives, and develop response plans.*
+📌 **Each project reflects real-world cybersecurity challenges and solutions, reinforcing my ability to analyze threats, mitigate risks, and enhance security operations.**  
 
-### [Detecting Complex Attacks](investigating-detecting-attacks.md)
-*Analyze a major security incident using a SIEM and leverage the MITRE ATT&CK framework to map the attacker’s tactics, techniques, and procedures.*
-
-### [Investigating Incidents](investigating-incidents.md)
-*Compile a detailed report summarizing findings from an incident investigation and recommend appropriate response actions.*
+💡 **For more details, visit my [GitHub Profile](https://github.com/EnoMada) or [LinkedIn Profile](https://www.linkedin.com/in/kylesportfolio/)!** 🚀
