@@ -2,6 +2,16 @@
 🚀 **Hands-on Security Implementations & Real-World Problem Solving**  
 This page showcases key projects from my cybersecurity training, demonstrating expertise in **incident response, vulnerability management, and threat detection**. Click on any project title to explore its technical breakdown and impact.  
 
+---
+## **🛡️ Enterprise Security & Asset Management**  
+
+🔹 **[Enterprise Asset Discovery & CMDB Implementation](enterprise_asset_discovery.md)**  
+*Performed network-wide scanning, categorized assets, and integrated findings into iTop CMDB for security tracking.*  
+✅ Conducted **Nmap, PowerShell, and LDAP-based scans** to identify and categorize 40+ assets.  
+✅ Classified devices into **honeypots, workstations, firewalls, servers, and switches**.  
+✅ Created a **centralized CMDB using iTop** to enhance **SOC monitoring & threat visibility**.  
+✅ Assisted in **reducing attack surface** by identifying unauthorized or misconfigured devices.  
+
 ---  
 
 ## **🛡️ Incident Response**  
