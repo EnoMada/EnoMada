@@ -22,18 +22,7 @@ I am a cybersecurity enthusiast focused on protecting digital assets and explori
 
 Below are some of my key certifications:
 
-### Credly Badge
-[![My Credly Badge](assets/images/credly_badge.png)](https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790)
-Click the badge above to view my credential on Credly.
-
-### Cybersecurity Bootcamp Projects
-- Hands-on projects and coursework that provided practical cybersecurity skills.
-
-### Google Professional Cybersecurity Certificate
-- Completed a comprehensive training program that covered a broad range of cybersecurity topics.
-
-### Security+ Certificate (In Progress)
-- Currently preparing for the Security+ exam to further validate my cybersecurity expertise.
+[![Badge Image](assets/images/your-image-file.png)](https://www.credly.com/badges/your-badge-id)
 
 
 ---
