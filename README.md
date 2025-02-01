@@ -22,7 +22,9 @@ I am a cybersecurity enthusiast focused on protecting digital assets and explori
 
 Below are some of my key certifications:
 
-[![Badge Image](assets/images/your-image-file.png)](https://www.credly.com/badges/your-badge-id)
+<a href="https://www.credly.com/badges/your-badge-id">
+  <img src="assets/images/googlebadge.png" alt="Google Badge" width="150">
+</a>
 
 
 ---
