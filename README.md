@@ -10,7 +10,7 @@
   <!-- Header -->
   <header>
     <div class="container">
-      <h1>KYLE GILL</h1>
+      <h1>Kyle Gill</h1>
       <nav>
         <ul>
           <li><a href="#hero">Home</a></li>
