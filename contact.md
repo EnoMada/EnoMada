@@ -7,7 +7,7 @@ If you’re looking for a dedicated **SOC Analyst, Cybersecurity Specialist, or 
 ## **📬 Get in Touch**  
 - 📧 **Email:** [kylegill30@yahoo.com](mailto:kylegill30@yahoo.com)  
 - 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kylesportfolio/)  
-- 🏆 **GitHub:** [GitHub Profile](#) *(Insert your GitHub URL here)*  
+- 🏆 **GitHub:** [GitHub Profile](https://github.com/EnoMada)  
 
 ---  
 
