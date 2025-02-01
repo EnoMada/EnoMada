@@ -1,40 +1,26 @@
 # Cybersecurity Portfolio
 
-![Portfolio Banner](assets/images/banner.jpg)  
-*Welcome to my cybersecurity portfolio!*
+Welcome to my cybersecurity portfolio! This page gives you a quick overview of my work and provides navigation to more detailed sections.
 
 ---
 
-## About Me
+## Navigation
 
-I am a cybersecurity enthusiast with hands-on experience from a bootcamp and professional certificate programs. I work on diverse projects that hone my skills in threat analysis, network security, and risk management.
-
----
-
-## Certifications
-
-- **Cybersecurity Bootcamp Projects**
-- **Google Professional Cybersecurity Certificate**
-- **Security+ Certificate (In Progress)**
+[![Overview](https://img.shields.io/badge/Overview-Overview-blue)](#overview)
+[![Projects](https://img.shields.io/badge/Projects-Projects-green)](projects.md)
+[![Certifications](https://img.shields.io/badge/Certifications-Certifications-red)](certifications.md)
+[![Contact](https://img.shields.io/badge/Contact-Contact-orange)](#contact)
 
 ---
 
-## Projects
+## Overview
 
-Here are a few projects I've worked on:
+I am a cybersecurity enthusiast focused on protecting digital assets and exploring innovative security solutions. On this portfolio, you’ll find details about my projects, certifications, and how to get in touch.
 
-### [Project Title 1](https://github.com/yourusername/project1)
-_A brief description of the project, its purpose, and key technologies._
-
-### [Project Title 2](https://github.com/yourusername/project2)
-_A short overview of this project, including what was learned and challenges overcome._
-
-*More projects coming soon...*
+<!-- More overview content as needed -->
 
 ---
 
 ## Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+For inquiries, please email me at [your.email@example.com](mailto:your.email@example.com).
