@@ -1,11 +1,24 @@
 # **Kyle Gill – Cybersecurity Enthusiast & Digital Defender**  
-🚀 **Threat Detection | Security Operations | Incident Response**  
+#### 🛡️ Transitioning Retail Operations Leader → Aspiring Cybersecurity Defender  
+##### 🔍 SOC Analyst | Threat Hunter | Incident Responder  
 
 Welcome to my cybersecurity portfolio! I specialize in **SOC operations, threat detection, and incident response**, leveraging analytical skills to **monitor, analyze, and secure digital infrastructures**.  
 
 With hands-on experience in **network monitoring, vulnerability assessments, and SIEM analysis**, I excel in **identifying threats, mitigating risks, and strengthening security postures**. This portfolio showcases my **expertise in log analysis, penetration testing, and asset discovery**, demonstrating my ability to **detect, analyze, and respond to cyber threats effectively**.  
 
 ---  
+## **🚀 Operational Excellence Meets Cyber Defense**  
+✅ **5+ years retail leadership** → **Security Operations Center readiness**  
+✅ **$5M+ inventory management** → **Enterprise asset protection**  
+✅ **Team leadership** → **Incident response coordination**  
+✅ **Loss prevention strategies** → **Threat mitigation frameworks**
+```mermaid
+graph LR
+    A[Retail Ops] -->|Risk Management| B[Cyber Defense]
+    B --> C{SOC Analyst}
+    C --> D[Threat Hunting]
+    C --> E[Incident Response]
+```
 
 ## **🔹 Navigation**  
 
