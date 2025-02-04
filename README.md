@@ -25,7 +25,6 @@ graph LR
 <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px; font-family: sans-serif; font-size: 1.1em;">
   <a href="projects.md" style="text-decoration: none; color: #0366d6; font-weight: bold;">📂 Projects</a>
   <a href="certifications.md" style="text-decoration: none; color: #0366d6; font-weight: bold;">🎓 Certifications</a>
-  <a href="contact.md" style="text-decoration: none; color: #0366d6; font-weight: bold;">📩 Contact</a>
 </div>  
 
 ---  
