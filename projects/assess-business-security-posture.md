@@ -12,6 +12,7 @@ In this project, I conducted a comprehensive security posture assessment for Rig
 ## Attached Files
 
 - [View Rigel Case PDF](assets/rigel-case.pdf)
+
   *(Ensure this file is uploaded to the `assets` folder in your repository.)*
 
 ## Project Objectives and Approach
