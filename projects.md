@@ -3,6 +3,25 @@
 This page showcases key projects from my cybersecurity training, demonstrating expertise in **incident response, vulnerability management, and threat detection**. Click on any project title to explore its technical breakdown and impact.  
 
 ---
+### Security Posture Assessment
+
+Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
+[View Detailed Project](projects/assess-business-security-posture.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **🛡️ Enterprise Security & Asset Management**  
 
 🔹 **[Enterprise Asset Discovery & CMDB Implementation](enterprise_asset_discovery.md)**  
