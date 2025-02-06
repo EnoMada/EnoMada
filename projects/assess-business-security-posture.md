@@ -11,7 +11,7 @@ In this project, I conducted a comprehensive security posture assessment for Rig
 
 ## Attached Files
 
-- [Rigel Cybernetics Institute: E-mail Case file](https://drive.google.com/file/d/1ukY1SfDIXOvX3YTvKRhnDmHNXU9auTtx/view?usp=sharing)
+- [View RCI E-mail Case file](https://drive.google.com/file/d/1ukY1SfDIXOvX3YTvKRhnDmHNXU9auTtx/view?usp=sharing)
 
 ## Project Objectives and Approach
 
