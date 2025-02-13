@@ -5,13 +5,13 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 ---
 ### Security Posture Assessment
 
-Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
+🔹Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
 [View Detailed Project](projects/assess-business-security-posture.md)
 
 ---
 ### Enterprise Asset Discovery & CMDB Implementation
 
-Demonstrated critical SOC capabilities—asset discovery, classification, and centralized tracking—through comprehensive network scanning and CMDB integration for enhanced security monitoring.  
+🔹Demonstrated critical SOC capabilities—asset discovery, classification, and centralized tracking—through comprehensive network scanning and CMDB integration for enhanced security monitoring.  
 
 ![Metrics](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)  
@@ -21,17 +21,14 @@ Demonstrated critical SOC capabilities—asset discovery, classification, and ce
 ---
 ### Threat Modeling for Xibalba Interactive
 
-Demonstrated critical SOC capabilities—threat modeling, vulnerability assessment, and attack surface analysis—through comprehensive risk identification and mitigation strategies for a game development studio.  
+🔹Demonstrated critical SOC capabilities—threat modeling, vulnerability assessment, and attack surface analysis—through comprehensive risk identification and mitigation strategies for a game development studio.  
 [View Detailed Project](projects/threat_modeling_for_xibalba_interactive.md)
 
 ---
+### 🛡️ Incident Response Plan Optimization for Capybara Unlimited  
 
-## **🛡️ Incident Response**  
-🔹 **[Identifying Common Threats and Attack Vectors](incident-response-threats.md)**  
-*Threat model an organization, assess risks, and develop a mitigation strategy to reduce attack surface.*  
-
-🔹 **[Incident Response Plan Optimization](incident-response-plan.md)**  
-*Revise and strengthen a ransomware incident response plan, aligning it with NIST standards for improved security readiness.*  
+🔹Demonstrated critical SOC capabilities—incident response planning, policy review, and playbook development—by revising and improving Capybara Unlimited’s outdated incident response plan to align with NIST best practices.  
+[View Detailed Project](projects/IRP_review_capybara_unlimited)
 
 ---  
 
