@@ -1,54 +1,48 @@
-# **Enterprise Asset Discovery & CMDB Implementation**  
-🚀 **Enhancing Network Visibility & Security Monitoring**  
+# Enterprise Asset Discovery & CMDB Implementation
 
-## **Project Overview**  
-This project demonstrates **comprehensive network scanning, asset enumeration, and CMDB integration** to improve **security monitoring and incident response**. Using **Nmap, PowerShell, LDAP queries, and other enumeration tools**, I identified and classified **40+ corporate IP addresses**, mapping them to **honeypots, workstations, firewalls, servers, and switches**. The final results were documented in a **spreadsheet** and integrated into **iTop**, a Configuration Management Database (CMDB), to centralize security-relevant asset details.  
+## Project Overview
 
----  
+In this project, I conducted a comprehensive enterprise asset discovery and CMDB implementation to enhance network visibility and security monitoring. Using tools like Nmap, PowerShell, and LDAP queries, I identified and classified over 40 corporate IP addresses, mapping them to honeypots, workstations, firewalls, servers, and switches. The findings were documented in a spreadsheet and integrated into iTop, a Configuration Management Database (CMDB), to centralize security-relevant asset details and improve SOC monitoring capabilities.
 
-## **🔍 Key Steps & Tools**   
+## Client Communication
 
-### **1️⃣ Network Scanning & Enumeration**  
-✅ Conducted scans using **Nmap & Zenmap** to detect open ports, running services, and system fingerprints.  
-✅ Executed **PowerShell & LDAP queries** to extract detailed system and user information.  
-✅ Utilized **FFUF, SMB scripts, and HTTP headers analysis** to identify web-facing assets and SMB shares.  
+> **Email from IT Security Team:**  
+> "We need to improve our network visibility and ensure all assets are properly tracked in our CMDB. Please conduct a thorough asset discovery and help us integrate the findings into iTop for better security monitoring."
 
-📌 **Proof of Work:** *(Attach raw scan results, logs, or relevant screenshots here)*  
+## Attached Files
 
-### **2️⃣ Asset Classification & Security Mapping**  
-✅ Categorized **honeypots, firewalls, servers, workstations, and switches** based on scan results.  
-✅ Documented findings in a **spreadsheet containing IPs, system roles, and potential security risks**.  
+- [View Asset Enumeration Spreadsheet](https://docs.google.com/spreadsheets/d/1jdsW1MjfQwm7uqFsAp59PHG5vOPwZSeJNPdEL_-nqCc/edit?usp=sharing)
+- [View Raw Nmap Scan Outputs](#) *(Insert link once uploaded)*
+- [View iTop CMDB Configuration Documentation](#) *(Insert link once uploaded)*
 
-📌 **Proof of Work:** [View the Asset Enumeration Spreadsheet](https://docs.google.com/spreadsheets/d/1jdsW1MjfQwm7uqFsAp59PHG5vOPwZSeJNPdEL_-nqCc/edit?usp=sharing)  
+## Project Objectives and Approach
 
-### **3️⃣ CMDB Integration in iTop**  
-✅ Structured all **device and asset details** into **iTop CMDB** for long-term tracking and security monitoring.  
-✅ Ensured the database reflects **accurate network topology, asset dependencies, and security classifications**.  
+- **Objective:** Enhance network visibility and security monitoring through comprehensive asset discovery and CMDB integration.  
+- **Approach:**  
+  - **Network Scanning & Enumeration:** Conducted scans using Nmap, Zenmap, PowerShell, and LDAP queries to identify open ports, running services, and system fingerprints.  
+  - **Asset Classification & Security Mapping:** Categorized assets (honeypots, firewalls, servers, workstations, switches) and documented findings in a detailed spreadsheet.  
+  - **CMDB Integration:** Structured all device and asset details into iTop CMDB for long-term tracking and monitoring.  
+  - **Threat Surface Reduction:** Identified unauthorized or misconfigured devices to reduce the attack surface.  
 
-📌 **Proof of Work:** *(Include screenshots of iTop CMDB setup and populated data entries)*  
+## SOC Analyst Skills Showcased
 
-### **4️⃣ Network Visibility & Threat Surface Reduction**  
-✅ Improved **SOC monitoring** by mapping critical assets and strengthening threat detection.  
-✅ Assisted in **reducing attack surface** by identifying **unauthorized or misconfigured devices**.  
+- **Network Scanning & Enumeration**  
+- **Asset Classification & Documentation**  
+- **CMDB Implementation & Management**  
+- **Threat Surface Analysis**  
+- **Incident Response Readiness**  
+- **Enterprise Security Monitoring**  
 
-📌 **Proof of Work:** *(Attach summary report highlighting improvements in asset tracking and security visibility)*  
+## Key Learnings and Recommendations
 
----  
+- **Centralized Asset Tracking:** A well-maintained CMDB is critical for effective security monitoring and incident response.  
+- **Proactive Network Visibility:** Regular asset discovery helps identify unauthorized devices and reduce attack surfaces.  
+- **Automation Opportunities:** Scripting tools like PowerShell can significantly speed up asset enumeration and classification.  
 
-## **🔗 Related Skills & Impact**  
-✅ **SOC Analyst Core Skill** – Hands-on experience with **network asset discovery & vulnerability assessment**.  
-✅ **Incident Response Readiness** – Created a **security-driven asset inventory** crucial for threat analysis.  
-✅ **Enterprise Security Management** – Utilized **CMDBs for continuous monitoring & asset lifecycle tracking**.  
+## Conclusion
 
----  
+This project reinforced my ability to conduct proactive security monitoring, asset discovery, and risk management within an enterprise network. By integrating findings into iTop CMDB, I improved network visibility and laid the groundwork for more effective SOC operations. This experience highlighted the importance of accurate asset tracking in strengthening an organization’s overall security posture.
 
-## **📂 Project Files & Reports**  
-📌 **[Asset Enumeration Spreadsheet](#)** *(Insert link once uploaded)*  
-📌 **[Raw Nmap Scan Outputs](#)** *(Insert logs or screenshots)*  
-📌 **[iTop CMDB Configuration Documentation](#)** *(Attach setup guide or screenshots)*  
+---
 
----  
-
-📌 **This project reinforces my ability to conduct proactive security monitoring, asset discovery, and risk management within an enterprise network.**  
-
-🚀 **For more insights, visit my [GitHub Profile](https://github.com/EnoMada) or [LinkedIn Profile](https://www.linkedin.com/in/kylesportfolio/)!**  
+📌 **For more insights, visit my [GitHub Profile](https://github.com/EnoMada) or [LinkedIn Profile](https://www.linkedin.com/in/kylesportfolio/)!**
