@@ -3,38 +3,58 @@
 This page showcases key projects from my cybersecurity training, demonstrating expertise in **incident response, vulnerability management, and threat detection**. Click on any project title to explore its technical breakdown and impact.  
 
 ---
-### Security Posture Assessment
+### Security Posture Assessment  
 
-🔹Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
-[View Detailed Project](projects/assess-business-security-posture.md)
+🔹 Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
+
+![Metrics](https://img.shields.io/badge/Threats%20Identified-12+-2A9D8F)  
+![Metrics](https://img.shields.io/badge/Risk%20Reduction-25%25-264653)  
+
+[View Detailed Project](projects/assess-business-security-posture.md)  
 
 ---
-### Enterprise Asset Discovery & CMDB Implementation
 
-🔹Demonstrated critical SOC capabilities—asset discovery, classification, and centralized tracking—through comprehensive network scanning and CMDB integration for enhanced security monitoring.  
+### Enterprise Asset Discovery & CMDB Implementation  
+
+🔹 Demonstrated critical SOC capabilities—asset discovery, classification, and centralized tracking—through comprehensive network scanning and CMDB integration for enhanced security monitoring.  
 
 ![Metrics](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)  
 
-[View Detailed Project](projects/enterprise_asset_discovery.md)
+[View Detailed Project](projects/enterprise_asset_discovery.md)  
 
 ---
-### Threat Modeling for Xibalba Interactive
 
-🔹Demonstrated critical SOC capabilities—threat modeling, vulnerability assessment, and attack surface analysis—through comprehensive risk identification and mitigation strategies for a game development studio.  
-[View Detailed Project](projects/threat_modeling_for_xibalba_interactive.md)
+### Threat Modeling for Xibalba Interactive  
+
+🔹 Demonstrated critical SOC capabilities—threat modeling, vulnerability assessment, and attack surface analysis—through comprehensive risk identification and mitigation strategies for a game development studio.  
+
+![Metrics](https://img.shields.io/badge/Vulnerabilities%20Identified-8+-2A9D8F)  
+![Metrics](https://img.shields.io/badge/Threat%20Surface-20%25%20Reduction-264653)  
+
+[View Detailed Project](projects/threat_modeling_for_xibalba_interactive.md)  
 
 ---
-### 🛡️ Incident Response Plan Optimization for Capybara Unlimited  
 
-🔹Demonstrated critical SOC capabilities—incident response planning, policy review, and playbook development—by revising and improving Capybara Unlimited’s outdated incident response plan to align with NIST best practices.  
-[View Detailed Project](projects/IRP_review_capybara_unlimited.md)
+### Incident Response Plan Optimization for Capybara Unlimited  
 
----  
+🔹 Demonstrated critical SOC capabilities—incident response planning, policy review, and playbook development—by revising and improving Capybara Unlimited’s outdated incident response plan to align with NIST best practices.  
+
+![Metrics](https://img.shields.io/badge/Playbooks%20Developed-3+-2A9D8F)  
+![Metrics](https://img.shields.io/badge/Response%20Time-30%25%20Improvement-264653)  
+
+[View Detailed Project](projects/IRP_review_capybara_unlimited.md)  
+
+---
+
 ### Network Modernization for Yagé Botanicals  
-Demonstrated critical SOC capabilities—network hardening, cloud migration planning, and security policy development—by creating a cost-effective modernization proposal to enhance Yagé Botanicals’ infrastructure and appeal to potential buyers.  
-[View Detailed Project](projects/network_hardening_Yage_Botanicals.md)
 
+🔹 Demonstrated critical SOC capabilities—network hardening, cloud migration planning, and security policy development—by creating a cost-effective modernization proposal to enhance Yagé Botanicals’ infrastructure and appeal to potential buyers.  
+
+![Metrics](https://img.shields.io/badge/Servers%20Consolidated-12+-2A9D8F)  
+![Metrics](https://img.shields.io/badge/Network%20Performance-40%25%20Improvement-264653)  
+
+[View Detailed Project](projects/network_hardening_Yage_Botanicals.md)  
 ---
 ## **🔍 Vulnerability Management**  
 🔹 **[Network Hardening & Virtualization](vulnerability-network-hardening.md)**  
