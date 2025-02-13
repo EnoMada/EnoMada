@@ -33,7 +33,7 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 ---  
 ### Network Modernization for Yagé Botanicals  
 Demonstrated critical SOC capabilities—network hardening, cloud migration planning, and security policy development—by creating a cost-effective modernization proposal to enhance Yagé Botanicals’ infrastructure and appeal to potential buyers.  
-[View Detailed Project](#)
+[View Detailed Project](projects/network_hardening_Yage_Botanicals.md)
 
 ---
 ## **🔍 Vulnerability Management**  
