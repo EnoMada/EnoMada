@@ -16,7 +16,7 @@ Demonstrated critical SOC capabilities—asset discovery, classification, and ce
 ![Metrics](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)  
 
-[View Detailed Project](enterprise_asset_discovery.md)
+[View Detailed Project](projects/enterprise_asset_discovery.md)
 
 ## **🛡️ Incident Response**  
 🔹 **[Identifying Common Threats and Attack Vectors](incident-response-threats.md)**  
