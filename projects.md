@@ -31,7 +31,11 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 [View Detailed Project](projects/IRP_review_capybara_unlimited.md)
 
 ---  
+### Network Modernization for Yagé Botanicals  
+Demonstrated critical SOC capabilities—network hardening, cloud migration planning, and security policy development—by creating a cost-effective modernization proposal to enhance Yagé Botanicals’ infrastructure and appeal to potential buyers.  
+[View Detailed Project](#)
 
+---
 ## **🔍 Vulnerability Management**  
 🔹 **[Network Hardening & Virtualization](vulnerability-network-hardening.md)**  
 *Modernize legacy network infrastructure by implementing virtualization strategies for scalable security.*  
