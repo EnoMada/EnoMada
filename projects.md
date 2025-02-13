@@ -18,6 +18,14 @@ Demonstrated critical SOC capabilities—asset discovery, classification, and ce
 
 [View Detailed Project](projects/enterprise_asset_discovery.md)
 
+---
+### Threat Modeling for Xibalba Interactive
+
+Demonstrated critical SOC capabilities—threat modeling, vulnerability assessment, and attack surface analysis—through comprehensive risk identification and mitigation strategies for a game development studio.  
+[View Detailed Project](#)
+
+---
+
 ## **🛡️ Incident Response**  
 🔹 **[Identifying Common Threats and Attack Vectors](incident-response-threats.md)**  
 *Threat model an organization, assess risks, and develop a mitigation strategy to reduce attack surface.*  
