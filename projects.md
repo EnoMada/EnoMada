@@ -8,30 +8,15 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
 [View Detailed Project](projects/assess-business-security-posture.md)
 
+---
+### Enterprise Asset Discovery & CMDB Implementation
 
+Demonstrated critical SOC capabilities—asset discovery, classification, and centralized tracking—through comprehensive network scanning and CMDB integration for enhanced security monitoring.  
 
+![Metrics](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
+![Metrics](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)  
 
-
-
-
-
-
-
-
-
-
-
-
-## **🛡️ Enterprise Security & Asset Management**  
-
-🔹 **[Enterprise Asset Discovery & CMDB Implementation](enterprise_asset_discovery.md)**  
-*Performed network-wide scanning, categorized assets, and integrated findings into iTop CMDB for security tracking.*  
-✅ Conducted **Nmap, PowerShell, and LDAP-based scans** to identify and categorize 40+ assets.  
-✅ Classified devices into **honeypots, workstations, firewalls, servers, and switches**.  
-✅ Created a **centralized CMDB using iTop** to enhance **SOC monitoring & threat visibility**.  
-✅ Assisted in **reducing attack surface** by identifying unauthorized or misconfigured devices.  
-
----  
+[View Detailed Project](enterprise_asset_discovery.md)
 
 ## **🛡️ Incident Response**  
 🔹 **[Identifying Common Threats and Attack Vectors](incident-response-threats.md)**  
