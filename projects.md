@@ -28,7 +28,7 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 ### 🛡️ Incident Response Plan Optimization for Capybara Unlimited  
 
 🔹Demonstrated critical SOC capabilities—incident response planning, policy review, and playbook development—by revising and improving Capybara Unlimited’s outdated incident response plan to align with NIST best practices.  
-[View Detailed Project](projects/IRP_review_capybara_unlimited)
+[View Detailed Project](projects/IRP_review_capybara_unlimited.md)
 
 ---  
 
