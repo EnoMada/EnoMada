@@ -5,7 +5,7 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 ---
 ### Security Posture Assessment  
 
-🔹 Showcased key SOC analytical skills—threat detection, incident response, root cause analysis, and risk management—during a comprehensive evaluation of a small business’s security posture.  
+🔹 Applied advanced threat detection and risk management techniques to evaluate and enhance a small business’s security posture, ensuring robust protection against emerging threats.  
 
 ![Metrics](https://img.shields.io/badge/Threats%20Identified-12+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Risk%20Reduction-25%25-264653)  
@@ -16,7 +16,7 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 
 ### Enterprise Asset Discovery & CMDB Implementation  
 
-🔹 Demonstrated critical SOC capabilities—asset discovery, classification, and centralized tracking—through comprehensive network scanning and CMDB integration for enhanced security monitoring.  
+🔹 Conducted comprehensive network scanning and asset classification to centralize security monitoring, improving visibility and reducing attack surfaces.  
 
 ![Metrics](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)  
@@ -27,7 +27,7 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 
 ### Threat Modeling for Xibalba Interactive  
 
-🔹 Demonstrated critical SOC capabilities—threat modeling, vulnerability assessment, and attack surface analysis—through comprehensive risk identification and mitigation strategies for a game development studio.  
+🔹 Designed and implemented a threat model to identify vulnerabilities and mitigate risks for a game development studio, ensuring secure deployment of new features.  
 
 ![Metrics](https://img.shields.io/badge/Vulnerabilities%20Identified-8+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Threat%20Surface-20%25%20Reduction-264653)  
@@ -38,7 +38,7 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 
 ### Incident Response Plan Optimization for Capybara Unlimited  
 
-🔹 Demonstrated critical SOC capabilities—incident response planning, policy review, and playbook development—by revising and improving Capybara Unlimited’s outdated incident response plan to align with NIST best practices.  
+🔹 Revitalized an outdated incident response plan by aligning it with NIST best practices, ensuring rapid and effective response to cybersecurity incidents.  
 
 ![Metrics](https://img.shields.io/badge/Playbooks%20Developed-3+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Response%20Time-30%25%20Improvement-264653)  
@@ -49,12 +49,13 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 
 ### Network Modernization for Yagé Botanicals  
 
-🔹 Demonstrated critical SOC capabilities—network hardening, cloud migration planning, and security policy development—by creating a cost-effective modernization proposal to enhance Yagé Botanicals’ infrastructure and appeal to potential buyers.  
+🔹 Engineered a cost-effective network modernization plan, including cloud migration and endpoint security improvements, to enhance operational efficiency and buyer appeal.  
 
 ![Metrics](https://img.shields.io/badge/Servers%20Consolidated-12+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/Network%20Performance-40%25%20Improvement-264653)  
 
 [View Detailed Project](projects/network_hardening_Yage_Botanicals.md)  
+
 ---
 ## **🔍 Vulnerability Management**  
 🔹 **[Network Hardening & Virtualization](vulnerability-network-hardening.md)**  
