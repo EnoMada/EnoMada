@@ -65,4 +65,4 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 ![Metrics](https://img.shields.io/badge/Vulnerabilities%20Identified-5+-2A9D8F)  
 ![Metrics](https://img.shields.io/badge/ICMP%20Success%20Rate-100%25%20Restored-264653)  
 
-[View Detailed Project](projects/Megaquagga_pentesting_report_preparation.md)  
+[View Detailed Project](projects/MegaQuagga_pentesting_report_preparation.md)  
