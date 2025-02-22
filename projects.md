@@ -57,36 +57,12 @@ This page showcases key projects from my cybersecurity training, demonstrating e
 [View Detailed Project](projects/network_hardening_Yage_Botanicals.md)  
 
 ---
-## **🔍 Vulnerability Management**  
-🔹 **[Network Hardening & Virtualization](vulnerability-network-hardening.md)**  
-*Modernize legacy network infrastructure by implementing virtualization strategies for scalable security.*  
 
-🔹 **[Comprehensive Vulnerability Assessment](vulnerability-assessment.md)**  
-*Conduct and document a vulnerability assessment for an MSSP’s newly onboarded client to enhance security posture.*  
+### MegaQuagga Publishing Penetration Test  
 
-🔹 **[Penetration Testing & Exploitation](vulnerability-exploitation.md)**  
-*Perform penetration tests to verify and exploit critical vulnerabilities identified during assessments.*  
+🔹 Executed full-stack security assessment through ethical hacking techniques, identifying critical vulnerabilities in web infrastructure and firewall configurations.  
 
-🔹 **[Vulnerability Remediation Strategy](vulnerability-remediation.md)**  
-*Implement targeted remediation strategies to address identified vulnerabilities and enhance resilience.*  
+![Metrics](https://img.shields.io/badge/Vulnerabilities%20Identified-5+-2A9D8F)  
+![Metrics](https://img.shields.io/badge/ICMP%20Success%20Rate-100%25%20Restored-264653)  
 
----  
-
-## **🔎 Investigating Incidents & Threat Hunting**  
-🔹 **[Managing Secure Networks](investigating-managing-networks.md)**  
-*Deploy a continuous monitoring system to enhance network visibility and ensure security log ingestion.*  
-
-🔹 **[Alert Triage & Anomaly Detection](investigating-alerts.md)**  
-*Analyze security alerts to differentiate real threats from false positives and develop response workflows.*  
-
-🔹 **[Detecting Advanced Cyber Attacks](investigating-detecting-attacks.md)**  
-*Leverage a SIEM system and the MITRE ATT&CK framework to investigate and map attacker tactics, techniques, and procedures.*  
-
-🔹 **[Incident Investigation & Reporting](investigating-incidents.md)**  
-*Conduct an in-depth incident analysis and compile a professional report with actionable recommendations.*  
-
----  
-
-📌 **Each project reflects real-world cybersecurity challenges and solutions, reinforcing my ability to analyze threats, mitigate risks, and enhance security operations.**  
-
-💡 **For more details, visit my [GitHub Profile](https://github.com/EnoMada) or [LinkedIn Profile](https://www.linkedin.com/in/kylesportfolio/)!** 🚀
+[View Detailed Project](projects/Megaquagga_pentesting_report_preparation.md)  
