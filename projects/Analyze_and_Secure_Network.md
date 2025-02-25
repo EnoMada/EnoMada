@@ -41,12 +41,14 @@ To address these issues, I designed a **modernized network architecture** featur
 - **Replaced Token Ring with a Mesh Network**, ensuring **redundancy and high availability**.  
 - **Upgraded routers** for **faster speeds, scalability, and encrypted traffic**.  
 
-```plaintext
-CIA Impact:
+
+﻿CIA Impact:
+ 
 🔹 **Confidentiality**: Secure traffic flows via encrypted routing.
+
 🔹 **Integrity**: Eliminated single points of failure for stable communication.
+
 🔹 **Availability**: Improved uptime through redundant connection paths.
-```
 
 ---
 
@@ -60,12 +62,16 @@ CIA Impact:
 - **Installed enterprise-grade WiFi 6 access points**, supporting **high-speed, secure wireless communication**.  
 - **Implemented VPN with encryption**, enabling **secure remote work** while **protecting data in transit**.  
 
-```plaintext
-CIA Impact:
+
+﻿CIA Impact:
+ 
 🔹 **Confidentiality**: WPA3 encryption prevents unauthorized wireless access.
+
 🔹 **Integrity**: VPN ensures data integrity by preventing interception/modification.
+
 🔹 **Availability**: Employees can securely access systems from anywhere.
-```
+
+
 
 ---
 
@@ -79,12 +85,14 @@ CIA Impact:
 - **Migrated critical systems to the cloud**, reducing **dependency on aging physical hardware**.  
 - **Implemented cloud-based disaster recovery**, ensuring **fast data restoration and high availability**.  
 
-```plaintext
-CIA Impact:
+
+﻿CIA Impact:
+ 
 🔹 **Confidentiality**: Cloud firewall and encryption secure stored data.
+
 🔹 **Integrity**: Regular integrity checks ensure data remains unaltered.
+
 🔹 **Availability**: Critical business operations continue during outages.
-```
 
 ---
 
