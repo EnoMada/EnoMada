@@ -2,18 +2,10 @@
 
 ## 📌 Overview  
 
-| **Client**                   | **Key Objectives**                                      |
-|------------------------------|--------------------------------------------------------|
-| IT Security Team             | - Improve network visibility and security monitoring   |
-|                              | - Conduct comprehensive enterprise asset discovery    |
-|                              | - Implement Configuration Management Database (CMDB)  |
+This project focused on **enhancing network visibility and security monitoring** for an enterprise IT security team. Using **Nmap, PowerShell, and LDAP queries**, I conducted a **comprehensive asset discovery**, identifying over **40 critical devices** including honeypots, firewalls, servers, and workstations. The results were documented and integrated into **iTop CMDB**, centralizing asset management for improved SOC monitoring and risk reduction.  
 
-| **Deliverables**                     | **Tools & Frameworks**                      |
-|--------------------------------------|--------------------------------------------|
-| Asset Enumeration Spreadsheet        | Nmap, Zenmap, PowerShell, LDAP Queries   |
-| iTop CMDB Configuration & Documentation | iTop CMDB, Network Asset Classification |
-| Raw Nmap Scan Logs                   | Enterprise Asset Discovery & Security Analysis |
-
+> **Email from IT Security Team:**  
+> *"We need to improve our network visibility and ensure all assets are properly tracked in our CMDB. Please conduct a thorough asset discovery and help us integrate the findings into iTop for better security monitoring."*  
 ---
 
 ## 🛠️ Key Skills Demonstrated  
