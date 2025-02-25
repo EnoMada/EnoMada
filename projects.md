@@ -3,6 +3,17 @@
 This page showcases key projects from my cybersecurity training, demonstrating expertise in **incident response, vulnerability management, and threat detection**. Click on any project title to explore its technical breakdown and impact.  
 
 ---
+
+### Tempus Fugit Timepieces Network Modernization  
+
+🔹 Modernized legacy network infrastructure through architectural redesign and zero-trust principles, enhancing security and business valuation for acquisition readiness.  
+
+![Metrics](https://img.shields.io/badge/Uptime%20Improvement-98%25-2A9D8F)  
+![Metrics](https://img.shields.io/badge/Devices%20Secured-50+-264653)  
+
+[View Detailed Project](projects/tempus_fugit_network.md)  
+
+---
 ### Security Posture Assessment  
 
 🔹 Applied advanced threat detection and risk management techniques to evaluate and enhance a small business’s security posture, ensuring robust protection against emerging threats.  
