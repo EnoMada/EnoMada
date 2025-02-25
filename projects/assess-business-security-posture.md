@@ -1,18 +1,12 @@
+
 # 🔒 Assessing a Business’s Security Posture  
 
 ## 📌 Overview  
 
-| **Client**                    | **Key Objectives**                                      |
-|--------------------------------|--------------------------------------------------------|
-| Rigel Cybernetics Institute (RCI) | - Evaluate current security posture                 |
-|                                | - Identify vulnerabilities and root causes             |
-|                                | - Provide risk-based security recommendations         |
+I conducted a **security posture assessment** for **Rigel Cybernetics Institute (RCI)** after they experienced a **ransomware attack** that disrupted critical operations. My analysis identified security gaps, extracted key risk factors, and provided **high-ROI security recommendations** based on **NIST best practices**. The final deliverable included an **updated incident response plan, risk mitigation strategies, and a security improvement roadmap** to strengthen their defenses and prevent future breaches.  
 
-| **Deliverables**             | **Tools & Frameworks**                                |
-|------------------------------|------------------------------------------------------|
-| Security Posture Assessment Report | NIST Cybersecurity Framework                     |
-| Incident Response Plan Analysis     | Risk-Based Prioritization                        |
-| Cybersecurity Recommendations       | Industry Best Practices & ROI-Driven Solutions |
+> **Email from Willa Herzog, CEO of Rigel Cybernetics Institute:**  
+> *"We’re so excited to begin this collaboration with you! Now that all our contracts are signed, we’d love to jump directly into one of our highest priorities: improving our internal processes to prevent future malware outbreaks from devastating our flagship hospital. Please review our attached IRP and supporting email chains to get started on our analysis."*  
 
 ---
 
