@@ -1,20 +1,16 @@
-# 🔒 Incident Response Plan Review for Capybara Unlimited  
+# Incident Response Plan Review for Capybara Unlimited  
 
-## 📌 Overview  
-
-| **Client**                | **Key Objectives**                                        |
-|---------------------------|----------------------------------------------------------|
-| Capybara Unlimited       | - Improve Incident Response Plan (IRP)                   |
-|                           | - Align with NIST Cybersecurity Framework                |
-|                           | - Develop actionable playbooks for key cyber threats    |
-
-| **Deliverables**          | **Tools & Frameworks**                                   |
-|---------------------------|----------------------------------------------------------|
-| Revised Incident Response Plan | NIST Cybersecurity Framework                        |
-| Malware Infection Playbook     | Incident Response Lifecycle Implementation          |
-| Phishing Playbook              | Security Policy Development                         |
+## Project Overview  
+In this project, I reviewed and revised the **incident response plan (IRP)** for **Capybara Unlimited**, a leading exotic pet retailer. Their existing IRP contained outdated and problematic advice, which I corrected to align with **NIST Cybersecurity Framework** best practices. The updated plan now ensures effective incident handling, clear communication, and robust mitigation strategies for threats like malware infections, phishing, and denial-of-service attacks.  
 
 ---
+
+## Client Communication  
+
+> **Email from Capybara Unlimited:**  
+> "We’ve experienced rapid growth and want to ensure our security practices are up to par. Please review our incident response plan and help us improve it to better protect our customers and business."  
+
+
 
 ## 🛠️ Key Skills Demonstrated  
 
