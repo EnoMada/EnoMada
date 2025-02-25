@@ -2,17 +2,14 @@
 
 ## 📌 Overview  
 
-| **Client**              | **Key Objectives**                                      |
-|------------------------|--------------------------------------------------------|
-| Yagé Botanicals       | - Improve infrastructure for operational efficiency    |
-|                        | - Enhance security to attract potential buyers        |
-|                        | - Implement cost-effective modernization solutions    |
+In this project, I developed a **network modernization proposal** for **Yagé Botanicals**, a 75-year-old greenhouse business preparing for a potential sale. Their outdated infrastructure, including slow internet, unsegmented networks, and missing security patches, raised red flags for buyers. I proposed cost-effective solutions, including cloud migration, VLAN implementation, and endpoint security improvements, to modernize their systems and enhance their appeal to potential buyers.  
 
-| **Deliverables**                     | **Tools & Frameworks**                      |
-|--------------------------------------|--------------------------------------------|
-| Network Modernization Proposal      | VLANs, Security Patching, SNOC Deployment  |
-| Cloud Migration Plan                 | Public Cloud Strategy, SaaS MDM Integration |
-| Security Policy Documentation        | Endpoint Security, 2FA Implementation     |
+---
+
+## Client Communication  
+
+> **Email from Yagé Botanicals:**  
+> "We need to modernize our infrastructure to attract buyers without overspending. Please help us identify practical, cost-effective upgrades that will improve our operations and security."  
 
 ---
 
