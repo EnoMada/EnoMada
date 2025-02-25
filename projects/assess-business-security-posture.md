@@ -1,52 +1,129 @@
-# Assess a Business’s Security Posture
+# 🔒 Assessing a Business’s Security Posture  
 
-## Project Overview
+## 📌 Overview  
 
-In this project, I conducted a comprehensive security posture assessment for Rigel Cybernetics Institute (RCI), a small business impacted by a ransomware incident. I reviewed a detailed casefile, extracted key cybersecurity issues, identified root causes, and clustered similar problems to streamline my analysis. Based on industry best practices, I researched and prioritized high-ROI solutions and compiled my findings into a formal report with tailored recommendations.
+| **Client**                    | **Key Objectives**                                      |
+|--------------------------------|--------------------------------------------------------|
+| Rigel Cybernetics Institute (RCI) | - Evaluate current security posture                 |
+|                                | - Identify vulnerabilities and root causes             |
+|                                | - Provide risk-based security recommendations         |
 
-## Client Communication
+| **Deliverables**             | **Tools & Frameworks**                                |
+|------------------------------|------------------------------------------------------|
+| Security Posture Assessment Report | NIST Cybersecurity Framework                     |
+| Incident Response Plan Analysis     | Risk-Based Prioritization                        |
+| Cybersecurity Recommendations       | Industry Best Practices & ROI-Driven Solutions |
 
-> **Email from Willa Herzog, CEO of Rigel Cybernetics Institute:**  
-> "We’re so excited to begin this collaboration with you! Now that all our contracts are signed, we’d love to jump directly into one of our highest priorities: improving our internal processes to prevent future malware outbreaks from devastating our flagship hospital. Please review our attached IRP and supporting email chains to get started on our analysis."
+---
 
-## Attached Files
+## 🛠️ Key Skills Demonstrated  
 
-- [View RCI E-mail Case file](https://drive.google.com/file/d/1ukY1SfDIXOvX3YTvKRhnDmHNXU9auTtx/view?usp=sharing)
+| **Category**                  | **Tools & Techniques**               | **SOC Relevance**                |
+|--------------------------------|--------------------------------------|----------------------------------|
+| **Threat Analysis & Detection** | Log Review, Malware Analysis        | Identifying security gaps        |
+| **Incident Response**          | IRP Evaluation, Response Strategy   | Strengthening response plans     |
+| **Risk Management**            | Vulnerability Assessment, Prioritization | Business Risk Reduction  |
+| **Report Writing & Documentation** | Formal Security Recommendations | Compliance & Policy Improvement  |
 
-## Project Objectives and Approach
+---
 
-- **Objective:** Enhance RCI’s security posture by evaluating their current Incident Response Plan (IRP) and identifying vulnerabilities.
-- **Approach:**
-  - **Review Casefile:** Analyze evidence from RCI’s ransomware incident.
-  - **Extract Information:** Mine the casefile for cybersecurity-related issues.
-  - **Identify Root Causes:** Determine the underlying reasons for each problem.
-  - **Cluster Issues:** Consolidate similar root causes to focus on critical issues.
-  - **Research Solutions:** Identify and propose best-practice solutions.
-  - **Prioritize Recommendations:** Rank solutions based on risk reduction and RCI’s business priorities.
-  - **Report Writing:** Document the analysis and recommendations in a formal report.
-  - **Submission & Review:** Prepare the project folder and submit the report for senior feedback.
+## 🚀 Walkthrough  
 
-## SOC Analyst Skills Showcased
+### **1️⃣ Reviewing the Incident Response Plan (IRP)**  
 
-- **Threat Analysis & Detection**
-- **Incident Response**
-- **Log Analysis**
-- **Root Cause Analysis**
-- **Risk Management**
-- **Vulnerability Assessment**
-- **Report Writing & Documentation**
-- **Prioritization & Decision Making**
-- **Implementation of Cyber Security Frameworks**
+#### **Scenario**  
+- RCI, a small business, suffered a **ransomware attack** affecting core operations.  
+- Their existing **Incident Response Plan (IRP) was outdated** and lacked **clear escalation paths**.
 
-## Key Learnings and Recommendations
+#### **Analysis**  
+- **Reviewed casefile evidence** related to the ransomware incident.  
+- **Extracted key cybersecurity issues**, including lack of segmentation, weak endpoint protection, and response delays.  
+- **Clustered similar vulnerabilities** to streamline remediation strategies.  
 
-- **Wicked Problems in Cybersecurity:**  
-  Perfect security is unattainable; focus on layered defenses to manage complexity.
-- **ROI-Driven Strategies:**  
-  Prioritize recommendations that offer measurable impact with feasible implementation.
-- **Continuous Improvement:**  
-  Adapt and refine security processes to address evolving threats.
+---
 
-## Conclusion
+### **2️⃣ Root Cause Identification & Security Recommendations**  
 
-This project deepened my understanding of assessing and enhancing a business’s security posture by balancing practical recommendations with the complexities of real-world cybersecurity challenges. It not only refined my technical and analytical skills but also emphasized the importance of structured, layered defense strategies in SOC operations.
+#### **Key Security Gaps Found**  
+- **Lack of Endpoint Security Controls** – No established **EDR** or **SIEM monitoring**.  
+- **Weak Network Segmentation** – Critical assets were **not isolated** from low-trust environments.  
+- **Slow Incident Response** – No **clear escalation process** or structured playbooks.  
+
+#### **Proposed Solutions**  
+- **Implement Endpoint Detection & Response (EDR)** tools to improve visibility.  
+- **Strengthen Network Segmentation** with VLANs and Zero Trust principles.  
+- **Develop & Train IR Teams** with defined escalation paths and tabletop exercises.  
+
+#### **Before vs After Security Posture Enhancement**  
+
+| **Metric**                      | **Pre-Enhancement**               | **Post-Enhancement**                |
+|----------------------------------|----------------------------------|----------------------------------|
+| Endpoint Protection Level       | Low (Minimal logging)            | High (EDR, SIEM implemented)   |
+| Network Segmentation            | Poor (Flat network)              | Strong (VLANs, Least Privilege)  |
+| Incident Response Readiness     | Unstructured & Slow              | Documented Playbooks & Training |
+
+---
+
+### **3️⃣ Final Report & Recommendations**  
+
+#### **Why This Matters for SOC Analysts**  
+- Strengthens **incident response frameworks** based on real-world case studies.  
+- Reinforces **risk-based decision-making** for **security posture improvements**.  
+- Highlights **layered defense strategies** aligned with NIST guidelines.  
+
+#### **Submitted Deliverables**  
+- **Security Posture Assessment Report** detailing findings & recommendations.  
+- **Incident Response Plan (IRP) Review** with structured escalation and playbooks.  
+- **Actionable Roadmap** prioritizing high-ROI cybersecurity improvements.  
+
+---
+
+## 🔍 Technical Artifacts  
+
+```plaintext
+Security-Posture-Assessment/
+├── casefile-analysis.pdf        # Extracted security weaknesses  
+├── irp-review.pdf               # Updated Incident Response Plan  
+├── security-recommendations.pdf # Final report with mitigation strategies  
+└── risk-prioritization.xlsx     # ROI-driven security improvements  
+```
+
+---
+
+## 🌟 Lessons Learned  
+
+### 🔐 **Wicked Problems in Cybersecurity**  
+- **Perfect security is unattainable** – layered defense strategies **mitigate risk** effectively.  
+
+### 💡 **ROI-Driven Security Strategies**  
+- **Prioritization is key** – focus on solutions with **high impact and feasible implementation**.  
+
+### 📜 **Continuous Security Improvement**  
+- **Regular IRP reviews** and **ongoing training** are critical to **adapting to evolving threats**.  
+
+---
+
+## 🎯 SOC Role Preparation  
+
+✅ **Threat Analysis & Detection** – Extracting root causes from incident evidence.  
+✅ **Incident Response Planning** – Strengthening response strategies with NIST alignment.  
+✅ **Risk Management & Prioritization** – Developing security strategies with **high ROI**.  
+✅ **Technical Report Writing** – Translating cybersecurity findings into actionable insights.  
+
+---
+
+## 🔗 Related Projects  
+
+1. [Incident Response Playbook Development](#)  
+2. [Risk-Based Security Audit](#)  
+3. [SIEM Log Analysis & Threat Hunting](#)  
+
+---
+
+## ⬇️ **Clone Repository**  
+
+```bash
+git clone https://github.com/yourusername/security-posture-assessment.git
+```
+
+---
