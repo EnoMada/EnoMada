@@ -1,127 +1,127 @@
-# 🔒 Enterprise Asset Discovery & CMDB Implementation  
+# 🔒 Enterprise Asset Discovery & CMDB Implementation for MegaQuagga
 
-## 📌 Overview  
+## 📌 Overview
 
-This project focused on **enhancing network visibility and security monitoring** for an enterprise IT security team. Using **Nmap, PowerShell, and LDAP queries**, I conducted a **comprehensive asset discovery**, identifying over **40 critical devices** including honeypots, firewalls, servers, and workstations. The results were documented and integrated into **iTop CMDB**, centralizing asset management for improved SOC monitoring and risk reduction.  
+This project focused on **enhancing network visibility and security monitoring** for **MegaQuagga Publishing's IT Security Team**. Using **Nmap, PowerShell scripting, and LDAP queries**, I conducted comprehensive asset discovery, identifying **over 30 critical network devices** including firewalls, web servers, databases, and workstations. The detailed findings were documented and integrated into **iTop CMDB**, centralizing asset management to significantly enhance SOC monitoring capabilities and proactively manage the company's security posture.
 
-> **Email from IT Security Team:**  
-> *"We need to improve our network visibility and ensure all assets are properly tracked in our CMDB. Please conduct a thorough asset discovery and help us integrate the findings into iTop for better security monitoring."*  
----
-
-## 🛠️ Key Skills Demonstrated  
-
-| **Category**                  | **Tools & Techniques**             | **SOC Relevance**                     |
-|--------------------------------|----------------------------------|--------------------------------------|
-| **Network Scanning**           | Nmap, Zenmap, PowerShell Scripting | Asset Discovery & Security Auditing  |
-| **Asset Classification**       | CMDB Integration, LDAP Queries   | Threat Surface Analysis & Monitoring |
-| **Enterprise Security Monitoring** | iTop CMDB, SIEM Integration   | Incident Response Readiness         |
-| **Threat Reduction Strategies** | Unauthorized Asset Identification | Attack Surface Minimization        |
+> **Email from MegaQuagga IT Security Team:**  
+> *"We need a thorough understanding of our network assets and a reliable system for tracking them in our CMDB. Please perform an extensive asset enumeration and integrate the results into our iTop CMDB for better security visibility and monitoring."*
 
 ---
 
-## 🚀 Walkthrough  
+## 🛠️ Key Skills Demonstrated
 
-### **1️⃣ Network Scanning & Asset Enumeration**  
+| **Category**                    | **Tools & Techniques**                  | **SOC Relevance**                         |
+|---------------------------------|-----------------------------------------|-------------------------------------------|
+| **Network Scanning**            | Nmap, Zenmap, PowerShell                | Asset Discovery & Security Auditing       |
+| **Asset Classification**        | CMDB Integration, LDAP Queries          | Threat Surface Analysis & Monitoring      |
+| **Enterprise Security Monitoring** | iTop CMDB, SIEM Integration             | Incident Response Readiness               |
+| **Threat Reduction Strategies** | Identification of Unauthorized Devices  | Attack Surface Minimization               |
 
-#### **Scenario**  
-- IT Security Team requested an enterprise-wide **asset discovery initiative** to improve **security visibility**.  
-- Initial assessments indicated **incomplete asset tracking**, increasing risk exposure.  
+---
 
-#### **Analysis**  
-- Conducted **Nmap network scans** to **identify active IPs, open ports, and running services**.  
-- Used **PowerShell & LDAP queries** to retrieve **authenticated network assets** from Active Directory.  
-- Extracted **device fingerprints** to classify systems into **honeypots, firewalls, workstations, servers, and switches**.  
+## 🚀 Walkthrough
+
+### **1️⃣ Network Scanning & Asset Enumeration**
+
+#### **Scenario**
+- IT Security Team at MegaQuagga requested comprehensive asset discovery to address concerns around incomplete asset inventories leading to increased security risks.
+
+#### **Analysis**
+- Performed extensive **Nmap network scans** to detect active IP addresses, open ports, and running services.
+- Leveraged **PowerShell and LDAP queries** to enumerate authenticated assets from Active Directory.
+- Utilized **device fingerprinting** techniques to classify discovered assets such as firewalls, web servers, database servers, and user endpoints.
 
 ```bash
-# Sample Nmap scan command for asset discovery
-nmap -sP 192.168.1.0/24
-# Expected Output: List of active hosts on the subnet
+# Nmap scan example
+nmap -sV -T4 -A 10.10.20.0/24
+# Expected Output: Comprehensive list of active hosts and detailed service information
 ```
 
 ---
 
-### **2️⃣ Asset Classification & Security Mapping**  
+### **2️⃣ Asset Classification & Security Mapping**
 
-#### **Asset Categorization**  
-- **Organized discovered assets** into a structured **spreadsheet** for tracking and analysis.  
-- **Identified anomalies** such as **unauthorized or misconfigured devices**.  
+#### **Asset Categorization**
+- Compiled the identified assets into a structured spreadsheet, providing clear visibility for ongoing security monitoring.
+- Highlighted anomalies including unauthorized or incorrectly configured devices.
 
-#### **Before vs After Asset Tracking Implementation**  
+#### **Before vs After Asset Tracking**
 
-| **Metric**                     | **Pre-Implementation**        | **Post-Implementation**       |
-|--------------------------------|-----------------------------|------------------------------|
-| Number of Untracked Assets     | High (Inconsistent Records) | Low (Centralized Tracking)  |
-| CMDB Accuracy & Completeness   | Partial Data Available      | Full Asset Integration      |
-| Security Monitoring Readiness  | Limited Network Visibility  | Enhanced Threat Detection   |
+| **Metric**                    | **Pre-Implementation**          | **Post-Implementation**           |
+|-------------------------------|---------------------------------|-----------------------------------|
+| Untracked Assets              | High (incomplete records)       | Low (centralized, complete records) |
+| CMDB Data Accuracy            | Partial                          | Comprehensive and verified        |
+| Security Monitoring Readiness | Limited visibility               | Enhanced threat detection         |
 
 ---
 
-### **3️⃣ CMDB Integration & Threat Surface Reduction**  
+### **3️⃣ CMDB Integration & Threat Surface Reduction**
 
-#### **CMDB Implementation**  
-- Imported **asset details into iTop CMDB**, ensuring **structured and retrievable asset records**.  
-- Mapped devices to **security policies, monitoring alerts, and network segmentation strategies**.  
+#### **CMDB Implementation**
+- Imported and structured asset data within **iTop CMDB**, creating a robust and retrievable asset management system.
+- Aligned assets with **security policies, alerting rules, and network segmentation** for improved threat detection and response.
 
-```bash
-# Sample PowerShell query to retrieve Active Directory assets
-Get-ADComputer -Filter * -Property Name,OperatingSystem,IPv4Address
+```powershell
+# PowerShell query for asset enumeration from AD
+Get-ADComputer -Filter * -Properties Name,OperatingSystem,IPv4Address
 ```
 
-#### **Security Improvements**  
-- **Identified rogue devices** that were previously unmonitored.  
-- **Enabled proactive threat monitoring** by integrating CMDB with **SOC operations**.  
-- **Optimized risk management** through improved **asset visibility**.  
+#### **Security Improvements**
+- Identified and mitigated previously unmonitored rogue devices.
+- Enhanced proactive monitoring capabilities through structured CMDB integration.
+- Improved overall risk management and asset visibility.
 
 ---
 
-## 🔍 Technical Artifacts  
+## 🔍 Technical Artifacts
 
 ```plaintext
-Enterprise-Asset-Discovery/
-├── asset-enumeration.xlsx      # Documented Asset List & Classification  
-├── nmap-scan-results/          # Raw Nmap Scan Outputs  
-│   ├── full-network-scan.xml   # XML format scan logs  
-│   ├── parsed-asset-list.txt   # Extracted device information  
-├── cmdb-integration-guide.pdf  # Configuration & Asset Mapping in iTop  
-└── unauthorized-devices-report.pdf # Identified rogue assets for remediation  
+Enterprise-Asset-Discovery-MegaQuagga/
+├── asset-enumeration.xlsx         # Comprehensive asset list and classification
+├── nmap-scan-results/             # Raw Nmap outputs
+│   ├── full-network-scan.xml      # Detailed scan logs in XML
+│   ├── parsed-asset-list.txt      # Extracted and parsed asset data
+├── cmdb-integration-guide.pdf     # iTop CMDB configuration documentation
+└── unauthorized-devices-report.pdf # Report highlighting unauthorized devices
 ```
 
 ---
 
-## 🌟 Lessons Learned  
+## 🌟 Lessons Learned
 
-### 🔐 **Centralized Asset Tracking Enhances Security**  
-- Maintaining a **well-structured CMDB** improves **incident response efficiency**.  
+### 🔐 Centralized Asset Management Strengthens Security
+- A comprehensive CMDB significantly streamlines and enhances incident response effectiveness.
 
-### 💡 **Network Visibility is Key to Threat Reduction**  
-- **Regular asset discovery** helps **detect unauthorized devices** before they become security risks.  
+### 💡 Increased Visibility Proactively Reduces Threats
+- Regular asset discovery initiatives are crucial for early detection of unauthorized devices.
 
-### 📜 **Automation Improves Asset Management**  
-- **PowerShell scripting** can streamline **repetitive enumeration tasks** for **large-scale enterprise networks**.  
-
----
-
-## 🎯 SOC Role Preparation  
-
-✅ **Enterprise Asset Discovery** – Strengthened asset tracking methodologies.  
-✅ **Threat Detection & Response** – Identified unauthorized assets for **security remediation**.  
-✅ **Security Policy & CMDB Management** – Integrated findings into **enterprise security monitoring**.  
-✅ **Network Scanning & Analysis** – Hands-on experience with **Nmap, PowerShell, and LDAP queries**.  
+### 📜 Automation Optimizes Asset Enumeration
+- PowerShell scripting and automated queries substantially expedite repetitive asset management tasks.
 
 ---
 
-## 🔗 Related Projects  
+## 🎯 SOC Role Preparation
 
-1. [SIEM Log Analysis & Threat Detection](#)  
-2. [Firewall Rule Optimization & Security Hardening](#)  
-3. [Zero Trust Network Segmentation](#)  
+✅ **Enterprise Asset Management** – Enhanced methodologies for maintaining accurate asset inventories.  
+✅ **Proactive Threat Mitigation** – Identified unauthorized assets for prompt security intervention.  
+✅ **CMDB & Policy Integration** – Integrated findings into ongoing SOC operational frameworks.  
+✅ **Technical Proficiency** – Developed hands-on experience with critical SOC tools including Nmap, PowerShell, and LDAP.
 
 ---
 
-## ⬇️ **Clone Repository**  
+## 🔗 Related Projects
+
+1. [MegaQuagga Penetration Test](projects/MegaQuagga_pentesting_report_preparation.md)  
+2. [Vulnerability Remediation for MegaQuagga](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md)  
+3. 
+
+---
+
+## ⬇️ **Clone Repository**
 
 ```bash
-git clone https://github.com/yourusername/enterprise-asset-discovery.git
+git clone https://github.com/yourusername/enterprise-asset-discovery-megaquagga.git
 ```
 
 ---
