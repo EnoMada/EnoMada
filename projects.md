@@ -1,6 +1,6 @@
 # 🚀 **Cybersecurity Projects**  
 ### **Hands-on Security Implementations & Real-World Problem Solving**  
-This page showcases my cybersecurity expertise, with projects organized to highlight real-world impact and practical experience—tailored specifically to demonstrate readiness for an **SOC Analyst** role.
+This page showcases my cybersecurity expertise, organized to highlight real-world impact and practical experience—tailored specifically to demonstrate readiness for an **SOC Analyst** role.
 
 ---
 
@@ -16,11 +16,30 @@ This page showcases my cybersecurity expertise, with projects organized to highl
 
 ---
 
-## 🔥 **1. Immediate Threat Management & Incident Response**  
-**Why Start Here?** Incident response skills directly address immediate threats and are highly valued in SOC roles.
+## 🕷️ **MegaQuagga Project Series**
+**Logical Progression:** Initial vulnerability identification ➡️ penetration testing ➡️ vulnerability remediation.
 
+### 1️⃣ **MegaQuagga Publishing Penetration Test**  
+🔹 Conducted full-stack ethical hacking, uncovering critical vulnerabilities and validating firewall security.
+
+![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities%20Identified-5+-2A9D8F)  
+![ICMP Success](https://img.shields.io/badge/ICMP%20Success%20Rate-100%25%20Restored-264653)
+
+[🔍 Detailed Project](projects/MegaQuagga_pentesting_report_preparation.md)
+
+### 2️⃣ **Vulnerability Remediation for MegaQuagga**  
+🔹 Implemented web application firewall, SSL encryption, and proactive defenses to remediate critical vulnerabilities and enhance security posture.
+
+![WAF Deployed](https://img.shields.io/badge/WAF%20Deployment-Completed-2A9D8F)  
+![Encryption](https://img.shields.io/badge/Traffic%20Encryption-Enabled-264653)
+
+[🔍 Detailed Project](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md)
+
+---
+
+## 🔥 **Incident Response & Threat Management**  
 ### 🛡️ **Incident Response Plan Optimization for Capybara Unlimited**  
-🔹 Revitalized an outdated incident response plan by aligning it with NIST standards, enabling rapid threat containment and effective incident resolution.
+🔹 Revitalized an outdated incident response plan aligning with NIST standards, enabling rapid threat containment and effective incident resolution.
 
 ![Playbooks](https://img.shields.io/badge/Playbooks%20Developed-3+-2A9D8F)  
 ![Response Time](https://img.shields.io/badge/Response%20Time-30%25%20Improvement-264653)
@@ -29,19 +48,17 @@ This page showcases my cybersecurity expertise, with projects organized to highl
 
 ---
 
-## 💀 **2. Vulnerability Discovery & Penetration Testing**  
-**Why Next?** Demonstrates proactive threat identification and validation, a core function of effective SOC operations.
+## 🎯 **Threat Modeling & Security Assessments**  
+### 📋 **Security Posture Assessment**  
+🔹 Performed deep-dive security assessments, identifying threats and reducing risks through targeted improvements.
 
-### 🕷️ **MegaQuagga Publishing Penetration Test**  
-🔹 Conducted full-stack ethical hacking, uncovering critical vulnerabilities and validating firewall security.
+![Threats Identified](https://img.shields.io/badge/Threats%20Identified-12+-2A9D8F)  
+![Risk Reduction](https://img.shields.io/badge/Risk%20Reduction-25%25-264653)
 
-![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities%20Identified-5+-2A9D8F)  
-![ICMP Success](https://img.shields.io/badge/ICMP%20Success%20Rate-100%25%20Restored-264653)
-
-[🔍 Detailed Project](projects/MegaQuagga_pentesting_report_preparation.md)
+[🔍 Detailed Project](projects/assess-business-security-posture.md)
 
 ### 🎯 **Threat Modeling for Xibalba Interactive**  
-🔹 Created and implemented comprehensive threat models to mitigate risks during feature deployments, enhancing security across development cycles.
+🔹 Implemented threat models to mitigate risks during feature deployments, enhancing security throughout the development lifecycle.
 
 ![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities%20Identified-8+-2A9D8F)  
 ![Threat Reduction](https://img.shields.io/badge/Threat%20Surface-20%25%20Reduction-264653)
@@ -50,24 +67,9 @@ This page showcases my cybersecurity expertise, with projects organized to highl
 
 ---
 
-## 🔎 **3. Comprehensive Security Evaluations**  
-**Why Next?** Security evaluations establish a baseline for improvement, highlighting your analytical skills essential for a SOC Analyst.
-
-### 📋 **Security Posture Assessment**  
-🔹 Performed deep-dive security assessments identifying threats and reducing risks through targeted improvements.
-
-![Threats Identified](https://img.shields.io/badge/Threats%20Identified-12+-2A9D8F)  
-![Risk Reduction](https://img.shields.io/badge/Risk%20Reduction-25%25-264653)
-
-[🔍 Detailed Project](projects/assess-business-security-posture.md)
-
----
-
-## 🌐 **4. Infrastructure Enhancement & Modernization**  
-**Why Next?** Infrastructure security directly impacts a company's resilience—crucial for SOC operations and overall risk management.
-
+## 🌐 **Network & Infrastructure Modernization**  
 ### 🖥️ **Tempus Fugit Timepieces Network Modernization**  
-🔹 Delivered a secure, modernized network architecture emphasizing zero-trust principles and ensuring robust disaster recovery capabilities.
+🔹 Delivered secure, modernized network architecture emphasizing zero-trust principles and robust disaster recovery capabilities.
 
 ![Uptime](https://img.shields.io/badge/Uptime%20Improvement-98%25-2A9D8F)  
 ![Devices Secured](https://img.shields.io/badge/Devices%20Secured-50+-264653)
@@ -84,11 +86,9 @@ This page showcases my cybersecurity expertise, with projects organized to highl
 
 ---
 
-## 🔄 **5. Continuous Monitoring & Asset Management**  
-**Why Last?** Emphasizes long-term management of cybersecurity posture—an essential, ongoing SOC Analyst responsibility.
-
+## 🔄 **Continuous Monitoring & Asset Management**  
 ### 🗂️ **Enterprise Asset Discovery & CMDB Implementation**  
-🔹 Identified and classified assets, integrating detailed results into a CMDB for proactive monitoring and significant attack surface reduction.
+🔹 Identified and classified assets, integrating results into a CMDB for proactive monitoring and significant attack surface reduction.
 
 ![Assets](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
 ![Attack Surface](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)
@@ -97,16 +97,19 @@ This page showcases my cybersecurity expertise, with projects organized to highl
 
 ---
 
-## 📈 **Interactive Project Flowchart**  
+## 📈 **Interactive Project Flowchart**
 ```mermaid
 graph TD;
-  A[Cybersecurity Projects] --> B[Network Security]
-  A --> C[Penetration Testing]
-  A --> D[Incident Response]
-  B -->|Upgrade| E[Tempus Fugit Network Modernization]
-  C -->|Exploit| F[MegaQuagga Penetration Test]
-  D -->|IR Planning| G[Capybara Incident Response Optimization]
+  A[Cybersecurity Projects] --> B[Incident Response];
+  B --> C[Vulnerability Discovery];
+  C --> D[Vulnerability Remediation];
+  D --> E[Threat Modeling];
+
+  A --> F[Security Assessments];
+  F --> G[Infrastructure Modernization];
+  G --> H[Continuous Monitoring];
 ```
+
 ---
 
 ## 📬 **Let's Connect!**  
