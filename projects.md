@@ -17,7 +17,7 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 ---
 
 ## 🕷️ **MegaQuagga Project Series**
-**Logical Progression:** Initial vulnerability identification ➡️ penetration testing ➡️ vulnerability remediation.
+**Logical Progression:** Initial vulnerability identification ➡️ penetration testing ➡️ vulnerability remediation ➡️ asset discovery & continuous monitoring.
 
 ### 1️⃣ **MegaQuagga Publishing Penetration Test**  
 🔹 Conducted full-stack ethical hacking, uncovering critical vulnerabilities and validating firewall security.
@@ -34,6 +34,14 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 ![Encryption](https://img.shields.io/badge/Traffic%20Encryption-Enabled-264653)
 
 [🔍 Detailed Project](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md)
+
+### 3️⃣ **Enterprise Asset Discovery & CMDB Implementation for MegaQuagga**
+🔹 Conducted comprehensive asset enumeration using Nmap and integrated findings into iTop CMDB, centralizing asset management for proactive threat detection.
+
+![Assets Discovered](https://img.shields.io/badge/Assets%20Discovered-30+-2A9D8F)  
+![CMDB Integration](https://img.shields.io/badge/CMDB%20Integration-iTop-264653)
+
+[🔍 Detailed Project](projects/Enterprise_Asset_Discovery_MegaQuagga.md)
 
 ---
 
@@ -86,28 +94,17 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 
 ---
 
-## 🔄 **Continuous Monitoring & Asset Management**  
-### 🗂️ **Enterprise Asset Discovery & CMDB Implementation**  
-🔹 Identified and classified assets, integrating results into a CMDB for proactive monitoring and significant attack surface reduction.
-
-![Assets](https://img.shields.io/badge/Assets%20Discovered-40+-2A9D8F)  
-![Attack Surface](https://img.shields.io/badge/Attack%20Surface-15%25%20Reduction-264653)
-
-[🔍 Detailed Project](projects/enterprise_asset_discovery.md)
-
----
-
 ## 📈 **Interactive Project Flowchart**
 ```mermaid
 graph TD;
   A[Cybersecurity Projects] --> B[Incident Response];
   B --> C[Vulnerability Discovery];
   C --> D[Vulnerability Remediation];
-  D --> E[Threat Modeling];
-
-  A --> F[Security Assessments];
-  F --> G[Infrastructure Modernization];
-  G --> H[Continuous Monitoring];
+  D --> E[Asset Discovery & CMDB];
+  E --> F[Threat Modeling];
+  F --> G[Security Assessments];
+  G --> H[Infrastructure Modernization];
+  H --> I[Continuous Monitoring];
 ```
 
 ---
