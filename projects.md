@@ -41,7 +41,7 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 ![Assets Discovered](https://img.shields.io/badge/Assets%20Discovered-30+-2A9D8F)  
 ![CMDB Integration](https://img.shields.io/badge/CMDB%20Integration-iTop-264653)
 
-[🔍 Detailed Project](projects/Enterprise_Asset_Discovery_MegaQuagga.md)
+[🔍 Detailed Project](projects/enterprise_asset_discovery.md)
 
 ---
 
