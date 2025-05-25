@@ -1,4 +1,4 @@
-# 🛡️ Sprint 12: Credential Stuffing Triage & Response
+# 🛡️Credential Stuffing Triage & Response
 
 **File Name:** `sprint12_brute_force_detection.md`  
 **Analyst:** Kyle Gill  
