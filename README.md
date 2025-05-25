@@ -1,45 +1,44 @@
-# **🛡️ Kyle Gill – Cybersecurity Analyst**  
-#### 🔍 SOC Analyst | Threat Hunter | Incident Responder  
+# 🛡️ **Kyle Gill – Cybersecurity Analyst**
 
-> **"From risk management in operations to securing digital infrastructures, I bring precision, adaptability, and an attacker's mindset to cybersecurity."**
+#### 🔍 SOC Analyst | Threat Hunter | Incident Responder
 
----
-
-## 🚀 **Welcome to My Cybersecurity Portfolio**  
-
-- **Transitioning from Retail Ops to Cybersecurity**: Applying **incident response, log analysis, and risk management** to **protect digital assets**.  
-- **Hands-on Experience in Threat Detection & Analysis**: Skilled in **SIEM monitoring, network forensics, vulnerability assessment, and attack surface management**.  
-- **Committed to Continuous Learning**: Pursuing **CompTIA Security+, Google Cybersecurity Certificate, and advanced SOC training**.
+> **"From managing operational risks to securing digital infrastructures, I bring precision, adaptability, and an attacker's mindset to cybersecurity."**
 
 ---
 
-## 🔗 **Quick Navigation**  
+## 🚀 **Welcome to My Cybersecurity Portfolio**
 
-<div align="left" style="display: flex; justify-content: center; gap: 20px; font-size: 1.2em;">
-  <a href="projects.md" style="text-decoration: none; color: #0366d6;">📂 Projects</a> |
-  <a href="certifications.md" style="text-decoration: none; color: #0366d6;">🎓 Certifications</a> |
-  <a href="contact.md" style="text-decoration: none; color: #0366d6;">📧 Contact</a>
-</div>
+I’m a hands-on cybersecurity professional with a background in operations and a proven ability to pivot into advanced threat detection, incident response, and security architecture. This portfolio highlights my transition from retail leadership to security operations through real-world projects, adversary simulations, and SIEM tuning.
 
----
-
-## 🛠️ **Core Competencies**  
-
-| **Technical Skills** | **Cybersecurity Tools** |
-|--------------------|---------------------|
-| 🔹 Threat Detection & Log Analysis | 🔹 Splunk, ELK Stack |
-| 🔹 SIEM & IDS/IPS Monitoring | 🔹 Suricata, Zeek |
-| 🔹 Vulnerability & Risk Assessment | 🔹 Nessus, OpenVAS |
-| 🔹 Penetration Testing & Ethical Hacking | 🔹 Kali Linux, Metasploit |
-| 🔹 Incident Response & Malware Analysis | 🔹 Wireshark, CyberChef |
+- 🎯 **Triage | Investigate | Respond** — Mastering SIEM tools and packet-level forensics  
+- 🧠 **From the Ground Up** — Building detection pipelines, testing alerts, and refining response workflows  
+- 📈 **Results-Driven** — Proving skills through measurable threat mitigation and enriched alert data
 
 ---
 
-## 🏆 **Certifications & Training**  
+## 🔗 **Quick Navigation**
 
-📌 **CompTIA Security+ (In Progress)**  
-📌 **Google Cybersecurity Certificate**  
-📌 **TripleTen Cybersecurity Bootcamp**  
+📂 [Projects](projects.md) | 🎓 [Certifications](certifications.md) | 📧 [Contact](contact.md)
+
+---
+
+## 🛠️ **Core Competencies**
+
+| **Technical Skills**                      | **Cybersecurity Tools**          |
+|------------------------------------------|----------------------------------|
+| 🔹 Threat Detection & Log Analysis       | 🔹 Splunk, ELK Stack              |
+| 🔹 SIEM & IDS/IPS Monitoring             | 🔹 Suricata, Zeek                 |
+| 🔹 Vulnerability & Risk Assessment       | 🔹 Nessus, OpenVAS                |
+| 🔹 Penetration Testing & Ethical Hacking | 🔹 Kali Linux, Metasploit         |
+| 🔹 Incident Response & Malware Analysis  | 🔹 Wireshark, CyberChef           |
+
+---
+
+## 🏆 **Certifications & Training**
+
+- 📌 **CompTIA Security+ (In Progress)**  
+- 📌 **Google Cybersecurity Certificate**  
+- 📌 **TripleTen Cybersecurity Bootcamp**
 
 <a href="https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url">
   <img src="assets/images/googlebadge.png" alt="Google Cybersecurity Certificate" width="150">
@@ -47,67 +46,83 @@
 
 ---
 
-## **📂 Featured Projects**  
+## 📂 **Featured Projects**
+
+### 🧪 **Credential Stuffing Detection & Response**  
+**Tools:** Wireshark, Splunk, ModSecurity  
+**Skills:** WAF alert triage, packet capture analysis, SIEM correlation  
+📌 [View Project](projects/Brute_force_detection.md)
 
 ### 🛡️ **SOC Incident Response Simulation**  
-**🔹 Tools:** Splunk, Wireshark, CyberChef  
-**🔹 Skills:** Log analysis, SIEM alert triage, IR workflows  
+**Tools:** Splunk, Wireshark, CyberChef  
+**Skills:** Log analysis, alert enrichment, IR workflows  
 📌 [View Project](projects.md#incident-response)
 
 ### 🚀 **Penetration Testing & Firewall Configurations**  
-**🔹 Tools:** pfSense, Metasploit, Kali Linux  
-**🔹 Skills:** Exploitation, risk mitigation, attack surface analysis  
+**Tools:** pfSense, Metasploit, Kali Linux  
+**Skills:** Exploitation, risk mitigation, attack surface analysis  
 📌 [View Project](projects.md#penetration-testing)
 
 ### 🌐 **Network Forensics & Traffic Analysis**  
-**🔹 Tools:** Wireshark, Zeek, Suricata  
-**🔹 Skills:** Packet analysis, anomaly detection, network security  
+**Tools:** Wireshark, Zeek, Suricata  
+**Skills:** Packet inspection, anomaly detection, web traffic analysis  
 📌 [View Project](projects.md#network-forensics)
 
 ---
 
-## 📊 **Cybersecurity Impact Metrics**  
+## 📊 **Cybersecurity Impact Metrics**
 
-### **Incident Response Workflow Execution**  
-<div style="display: flex; align-items: center; gap: 10px;">
-  <div style="flex: 1; height: 10px; background: #e0e0e0; border-radius: 5px;">
-    <div style="width: 90%; height: 100%; background: #2A9D8F; border-radius: 5px;"></div>
-  </div>
-  <span style="font-size: 0.9em; color: #264653;">90% Efficiency</span>
-</div>
+**Incident Response Execution**  
+🔹 90% efficiency across alert triage, enrichment, and response timelines
 
-### **SIEM & Threat Hunting Proficiency**  
-<div style="display: flex; align-items: center; gap: 10px;">
-  <div style="flex: 1; height: 10px; background: #e0e0e0; border-radius: 5px;">
-    <div style="width: 85%; height: 100%; background: #264653; border-radius: 5px;"></div>
-  </div>
-  <span style="font-size: 0.9em; color: #264653;">85% Log Analysis Accuracy</span>
-</div>
+**SIEM & Threat Hunting Proficiency**  
+🔹 85% correlation accuracy using multi-source telemetry and behavioral pivoting
 
 ---
 
-## 🎯 **Why Hire Me?**  
+## 🧠 **How I Think as an Analyst**
 
-✅ **Hands-on Threat Detection & Incident Response** – SIEM log analysis, packet inspection, forensic investigation  
-✅ **Technical Problem-Solver** – Strong analytical skills in risk assessment, firewall configurations, and vulnerability testing  
-✅ **Adaptability & Continuous Learning** – Rapidly transitioning from operations leadership to cybersecurity, with a structured methodology  
+I approach cybersecurity the same way I used to manage high-pressure retail ops: with clarity, urgency, and attention to what *really matters*. Here’s how I operate in the SOC mindset:
+
+- 🚨 Every alert is a puzzle — I don’t just mute it, I *prove it false or true*
+- 🔁 I prioritize fast dispositioning: reduce noise, surface threats
+- 🔍 I pivot fast — from logs to packets, from endpoints to context
+- 🧩 I write clear, human-readable timelines, not just event IDs
+- 📚 I log everything — not just for the record, but to train my future self
 
 ---
 
-## 📩 **Contact Me**  
+## 📚 **Currently Exploring**
 
-📧 **Email:** [kylegill30@yahoo.com](mailto:kylegill30@yahoo.com)  
+To deepen my capabilities as a SOC Analyst and future Detection Engineer, I'm actively learning:
+
+- 🛠 Writing Sigma rules for alerting patterns I’ve already triaged manually
+- ⚙️ Correlating Wazuh, Zeek, and Suricata data for full traffic visibility
+- 🧠 MITRE ATT&CK mapping + Red Canary tradecraft analysis
+- 🌐 Cloud log analysis and detection strategy (GCP / AWS / Azure)
+
+---
+
+## 🎯 **Why Hire Me?**
+
+✅ **Real-World Threat Analysis** — Enriched WAF alerts, confirmed valid account compromise, and led full response cycle  
+✅ **Precision + Adaptability** — From packet captures to Splunk queries, I adapt quickly and triage with intent  
+✅ **Strategic Perspective** — I think like an attacker, report like a responder, and communicate like a leader
+
+---
+
+## 📩 **Contact Me**
+
+📧 **Email:** [KyleGSecurity@proton.me](mailto:KyleGSecurity@proton.me)  
 💼 **LinkedIn:** [Kyle’s Profile](https://www.linkedin.com/in/kylesportfolio/)  
-📌 **GitHub:** [github.com/KyleGillCyber](https://github.com/KyleGillCyber)  
+📌 **GitHub:** [github.com/KyleGillCyber](https://github.com/KyleGillCyber)
 
 ---
 
-## **🔍 End Formatting & Best Practices**  
+## ✅ **Page Strategy Highlights**
 
-✅ **Navigation is Clear & Clickable** – Recruiters quickly access projects, certifications, and contact info  
-✅ **Scannable Skills & Tools Tables** – Immediately highlights relevant skills for SOC Analyst roles  
-✅ **Project Showcases with Links** – Easy to review real-world applications of skills  
-✅ **Impact Metrics with Visuals** – Demonstrates cybersecurity effectiveness  
-✅ **Contact Info is Prominent** – No friction for recruiters reaching out  
-
----
+- 🧭 Clear navigation to projects, certs, and contact  
+- 🔧 Skills and tools organized for recruiter scanability  
+- 🔍 Projects contextualized by tool and outcome  
+- 📈 Measurable metrics highlight effectiveness  
+- 🧠 Analyst mindset + learning shows technical growth  
