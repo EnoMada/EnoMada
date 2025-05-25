@@ -102,10 +102,11 @@ The user-agent is consistent with Hydra brute-force tooling. No external command
 
 ## 📁 Supporting Artifacts
 
+- [`Google Docs IR Triage Report`](https://docs.google.com/document/d/1ayrAvYhJQV9mZYxLm6CVuMH9ZgV5qs_WIFTAZUVs3eA/edit?tab=t.0#heading=h.o95rl4iy9z4x)
 - [`attack1.pcap`](https://practicum-content.s3.us-west-1.amazonaws.com/CSA/sprint12/attack1.pcap)  
 - [`attack2.pcap`](https://practicum-content.s3.us-west-1.amazonaws.com/CSA/sprint12/attack2.pcap)  
-- [Google Docs IR Report](https://docs.google.com/document/d/10xZAB_gdc3JE2a9zTYfHE7B2ylMHdZ1I2bM8zEa4aUU/edit?usp=sharing)  
-- [Splunk Query Screenshot](https://practicum-content.s3.us-west-1.amazonaws.com/resources/Wireshark_-_attack1_-_Conversations_http_annotated_1747229483.png)
+- [`Google Docs IR Report`](https://docs.google.com/document/d/10xZAB_gdc3JE2a9zTYfHE7B2ylMHdZ1I2bM8zEa4aUU/edit?usp=sharing)  
+- [`Splunk Query Screenshot`](https://practicum-content.s3.us-west-1.amazonaws.com/resources/Wireshark_-_attack1_-_Conversations_http_annotated_1747229483.png)
 
 ---
 
