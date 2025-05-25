@@ -83,6 +83,17 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 
 [🔍 Detailed Project](projects/IRP_review_capybara_unlimited.md)
 
+### 🧪 **Credential Stuffing Detection & Response (Sprint 12)**
+
+🔹 Triaged a high-severity ModSecurity alert involving Hydra-driven credential stuffing targeting a WordPress login endpoint. Conducted packet analysis using Wireshark, enriched findings via Splunk queries, and authored a full IR report confirming privilege escalation through valid credential use.
+
+![Log Source](https://img.shields.io/badge/Log%20Source-ModSecurity%20WAF-2A9D8F)
+![Compromise Confirmed](https://img.shields.io/badge/Accounts%20Compromised-admin%20%26%20elliot-264653)
+![Response Actions](https://img.shields.io/badge/IR%20Actions-Password%20Reset%20%26%20Forensic%20Review-2A9D8F)
+![SIEM Correlation](https://img.shields.io/badge/Splunk%20Correlation-HTTP%20302%20Pivot-264653)
+
+[🔍 Detailed Project](https://github.com/EnoMada/EnoMada/blob/main/projects/Brute_force_detection.md)
+
 ---
 
 ## 🎯 **Threat Modeling & Security Assessments**
@@ -141,6 +152,7 @@ graph TD;
   F --> G[Security Assessments];
   G --> H[Infrastructure Modernization];
   H --> I[SIEM Optimization];
+
 ```
 
 ---
