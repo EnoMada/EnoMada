@@ -1,4 +1,5 @@
 # 🛡️Credential Stuffing Triage & Response
+[`Google Docs IR Triage Report`](https://docs.google.com/document/d/1ayrAvYhJQV9mZYxLm6CVuMH9ZgV5qs_WIFTAZUVs3eA/edit?tab=t.0#heading=h.o95rl4iy9z4x)
 
 **File Name:** `sprint12_brute_force_detection.md`  
 **Analyst:** Kyle Gill  
