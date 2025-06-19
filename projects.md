@@ -94,6 +94,19 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 
 [🔍 Detailed Project](https://github.com/EnoMada/EnoMada/blob/main/projects/Brute_force_detection.md)
 
+### 📂 **Ransomware Triage & Forensic Correlation Report**
+
+🔹 Investigated Cerber ransomware behavior in a real-world scenario, tracing execution from obfuscated VBScript payload to outbound image-based steganographic download. Used Splunk queries across multiple log sources (`stream:http`, `stream:smb`, `WinRegistry`, `Sysmon`) to correlate adversary behavior. Enriched analysis with WHOIS, VirusTotal, and CyberChef to decode attacker infrastructure and produce an executive-level IR Triage Report.
+
+![Alert Type](https://img.shields.io/badge/Incident-Ransomware%20Delivery%20&%20Execution-2A9D8F)
+![Tools Used](https://img.shields.io/badge/Log%20Correlation-Splunk%20%7C%20CyberChef%20%7C%20OSINT-264653)
+![Scope](https://img.shields.io/badge/Affected%20System-we8105desk-2A9D8F)
+![Report](https://img.shields.io/badge/IR%20Report-Completed-2A9D8F)
+
+[📄 IR Triage Report](https://docs.google.com/document/d/1Xb8Ft57e7fKdxcfun9_eTqZqBJ64GtaxBhSNBrIs9nE/edit?tab=t.0#heading=h.o95rl4iy9z4x)  
+[📓 Investigation Notes](https://docs.google.com/document/d/1FwzT01-jFsZvm0ukrA5fmAOqaFTqVnHqtq88SSZzYpM/edit?tab=t.xxz5fu5xi7zn#heading=h.gsqa31rk4z5z)
+
+[🔍 Detailed Project](projects/cerber_ransomware_triage.md)
 ---
 
 ## 🎯 **Threat Modeling & Security Assessments**
