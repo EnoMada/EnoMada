@@ -107,6 +107,7 @@ This page showcases my cybersecurity expertise, organized to highlight real-worl
 [📓 Investigation Notes](https://docs.google.com/document/d/1FwzT01-jFsZvm0ukrA5fmAOqaFTqVnHqtq88SSZzYpM/edit?tab=t.xxz5fu5xi7zn#heading=h.gsqa31rk4z5z)
 
 [🔍 Detailed Project](projects/cerber_ransomware_triage.md)
+
 ---
 
 ## 🎯 **Threat Modeling & Security Assessments**
