@@ -18,7 +18,7 @@ I’m a hands-on cybersecurity professional with a background in operations and 
 
 ## 🔗 **Quick Navigation**
 
-📂 [Projects](projects.md) | 🎓 [Certifications](certifications.md) | 📧 [Contact](contact.md)
+📂 [Projects](projects.md) | 🎓 [Certifications](certifications.md) | 📄 [Resume](resume.md) | 📧 [Contact](contact.md)
 
 ---
 
@@ -36,13 +36,39 @@ I’m a hands-on cybersecurity professional with a background in operations and 
 
 ## 🏆 **Certifications & Training**
 
-- 📌 **CompTIA Security+ (In Progress)**  
-- 📌 **Google Cybersecurity Certificate**  
-- 📌 **TripleTen Cybersecurity Bootcamp**
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://verify.CompTIA.org" target="_blank">
+        <img src="assets/images/Security+-png.png" alt="CompTIA Security+ Badge" width="150">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url" target="_blank">
+        <img src="assets/images/googlebadge.png" alt="Google Cybersecurity Certificate" width="150">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>CompTIA Security+ (SY0-701)</strong><br>
+      Certified: July 17, 2025<br>
+      Expiration: July 17, 2028<br>
+      Credential ID: COMP001022846030
+    </td>
+    <td align="center">
+      <strong>Google Cybersecurity Certificate</strong><br>
+      Issued by Google & Coursera<br>
+      Badge: <a href="https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url" target="_blank">View on Credly</a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url">
-  <img src="assets/images/googlebadge.png" alt="Google Cybersecurity Certificate" width="150">
-</a>
+---
+
+- 📌 **TripleTen Cybersecurity Bootcamp**  
+  Intensive 7-month program: Incident Response, SIEM, MITRE ATT&CK, and Security+ Prep.
+
 
 ---
 
@@ -84,11 +110,11 @@ I’m a hands-on cybersecurity professional with a background in operations and 
 
 I approach cybersecurity the same way I used to manage high-pressure retail ops: with clarity, urgency, and attention to what *really matters*. Here’s how I operate in the SOC mindset:
 
-- 🚨 Every alert is a puzzle — I don’t just mute it, I *prove it false or true*
-- 🔁 I prioritize fast dispositioning: reduce noise, surface threats
-- 🔍 I pivot fast — from logs to packets, from endpoints to context
-- 🧩 I write clear, human-readable timelines, not just event IDs
-- 📚 I log everything — not just for the record, but to train my future self
+- 🚨 Every alert is a puzzle — I don’t just mute it, I *prove it false or true*  
+- 🔁 I prioritize fast dispositioning: reduce noise, surface threats  
+- 🔍 I pivot fast — from logs to packets, from endpoints to context  
+- 🧩 I write clear, human-readable timelines, not just event IDs  
+- 📚 I log everything — not just for the record, but to train my future self  
 
 ---
 
@@ -96,10 +122,10 @@ I approach cybersecurity the same way I used to manage high-pressure retail ops:
 
 To deepen my capabilities as a SOC Analyst and future Detection Engineer, I'm actively learning:
 
-- 🛠 Writing Sigma rules for alerting patterns I’ve already triaged manually
-- ⚙️ Correlating Wazuh, Zeek, and Suricata data for full traffic visibility
-- 🧠 MITRE ATT&CK mapping + Red Canary tradecraft analysis
-- 🌐 Cloud log analysis and detection strategy (GCP / AWS / Azure)
+- 🛠 Writing Sigma rules for alerting patterns I’ve already triaged manually  
+- ⚙️ Correlating Wazuh, Zeek, and Suricata data for full traffic visibility  
+- 🧠 MITRE ATT&CK mapping + Red Canary tradecraft analysis  
+- 🌐 Cloud log analysis and detection strategy (GCP / AWS / Azure)  
 
 ---
 
@@ -107,7 +133,7 @@ To deepen my capabilities as a SOC Analyst and future Detection Engineer, I'm ac
 
 ✅ **Real-World Threat Analysis** — Enriched WAF alerts, confirmed valid account compromise, and led full response cycle  
 ✅ **Precision + Adaptability** — From packet captures to Splunk queries, I adapt quickly and triage with intent  
-✅ **Strategic Perspective** — I think like an attacker, report like a responder, and communicate like a leader
+✅ **Strategic Perspective** — I think like an attacker, report like a responder, and communicate like a leader  
 
 ---
 
@@ -118,11 +144,3 @@ To deepen my capabilities as a SOC Analyst and future Detection Engineer, I'm ac
 📌 **GitHub:** [github.com/KyleGillCyber](https://github.com/KyleGillCyber)
 
 ---
-
-## ✅ **Page Strategy Highlights**
-
-- 🧭 Clear navigation to projects, certs, and contact  
-- 🔧 Skills and tools organized for recruiter scanability  
-- 🔍 Projects contextualized by tool and outcome  
-- 📈 Measurable metrics highlight effectiveness  
-- 🧠 Analyst mindset + learning shows technical growth  
