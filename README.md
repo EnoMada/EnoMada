@@ -141,6 +141,6 @@ To deepen my capabilities as a SOC Analyst and future Detection Engineer, I'm ac
 
 📧 **Email:** [KyleGSecurity@proton.me](mailto:KyleGSecurity@proton.me)  
 💼 **LinkedIn:** [Kyle’s Profile](https://www.linkedin.com/in/kylesportfolio/)  
-📌 **GitHub:** [github.com/KyleGillCyber](https://github.com/KyleGillCyber)
+📌 **GitHub:** [github.com/KyleGillCyber](https://github.com/EnoMada)
 
 ---
