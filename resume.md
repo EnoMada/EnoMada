@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/Security+-png.png" alt="CompTIA Security+ Badge" width="140"/>
+</p>
+
 ## 🛡️ Kyle Gill  
 **Cybersecurity Analyst**  
 **SOC Analyst | Threat Hunter | Incident Responder**   
