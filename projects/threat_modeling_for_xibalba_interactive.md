@@ -1,80 +1,49 @@
-# Threat Modeling for Xibalba Interactive
+# Xibalba Threat Modeling Case Study
 
-## Project Overview
+[Back to projects](../projects.md) | [Security Architecture section](../projects.md#security-architecture-and-risk)
 
-In this project, I conducted a comprehensive **threat modeling exercise** for **Xibalba Interactive**, an up-and-coming game development studio. The goal was to assess the risks associated with their new feature: a **publicly-accessible website** displaying player stats and a guestbook for user comments. By mapping attack surfaces, identifying vulnerabilities, and proposing mitigation strategies, I helped Xibalba improve their security posture and reduce visibility gaps.
+![Type](https://img.shields.io/badge/type-scenario%20case%20study-1F4E79)
+![Status](https://img.shields.io/badge/status-completed-0B6E69)
+![Evidence](https://img.shields.io/badge/evidence-E1-F2A900)
 
----
+## Snapshot
 
-## Client Communication
+| Field | Detail |
+|---|---|
+| Domain | Threat modeling / application security |
+| Environment | Scenario-based case study |
+| Role signal | Security architecture, application security, risk analysis |
+| Core methods | Threat modeling, mitigation design, web-security risk review |
+| Migration target | `security-architecture-casebook/cases/xibalba-threat-model/` |
 
-> **Email from Xibalba Interactive:**  
-> "We’re excited to implement a new feature for our game: a public website showing player stats and user comments. We need your help to identify potential threats and ensure this feature is secure."
+## What This Demonstrates
 
----
+- Modeling likely threats for a public web-feature scenario.
+- Identifying attack-surface concerns.
+- Turning findings into practical mitigation recommendations.
+- Keeping scenario facts separate from analyst recommendations.
 
-## Attached Files
+## Case Summary
 
-- Artifact links are pending upload and evidence validation.
+This scenario case study modeled threats for a public web feature, identified attack-surface concerns, and documented mitigation recommendations.
 
----
+## Evidence and Limitations
 
-## Project Objectives and Approach
+| Available Now | Still Needed |
+|---|---|
+| Narrative case study | Threat-model worksheet |
+| Mitigation themes | Data-flow diagram or asset map |
+| Scenario context | Evidence appendix |
+| Cleaned placeholder links | Migration record |
 
-- **Objective:** Identify and mitigate threats associated with Xibalba’s new public-facing website feature.  
-- **Approach:**  
-  - **Threat Modeling:** Developed a threat model to map attack surfaces and identify vulnerabilities.  
-  - **Asset Identification:** Cataloged key assets, including intellectual property, payment information, and the in-game chat system.  
-  - **Vulnerability Assessment:** Conducted scans using **Nmap**, **PowerShell**, and **LDAP queries** to uncover misconfigurations and exposed assets.  
-  - **SIEM Integration:** Analyzed existing SIEM logs and proposed enhancements for better threat detection.  
-  - **Recommendations:** Provided actionable strategies to reduce the attack surface and improve security monitoring.  
+## Integrity Notes
 
----
+- Placeholder artifact links have been removed.
+- Do not claim threat-surface reduction percentages without a defined measurement method.
+- The future casebook version should publish a sanitized worksheet if rights permit.
 
-## Key Findings
+## Related Work
 
-### **1️⃣ Exposed Intellectual Property**  
-- Discovered an **open directory** on the development server (`dev.xibalbainteractive.com`) containing a `.git` folder with the **proprietary game source code**.  
-- **Recommendation:** Restrict access to development servers and implement IP whitelisting.  
-
-### **2️⃣ Stored Cross-Site Scripting (XSS)**  
-- Identified a **stored XSS vulnerability** in the guestbook feature of the new website (`stats.xibalbainteractive.com`).  
-- **Recommendation:** Implement input validation and output encoding to prevent XSS attacks.  
-
-### **3️⃣ Misconfigured Administrative Interfaces**  
-- Found that **administrative interfaces** for game servers were accessible over the internet without **multi-factor authentication (MFA)** or **IP whitelisting**.  
-- **Recommendation:** Enable MFA and restrict access to trusted IPs.  
-
-### **4️⃣ Shared Database Credentials**  
-- Development and production environments shared the **same database credentials**, increasing the risk of lateral movement.  
-- **Recommendation:** Use separate credentials and implement role-based access control (RBAC).  
-
----
-
-## SOC Analyst Skills Showcased
-
-- **Threat Modeling & Risk Assessment**  
-- **Network Scanning & Enumeration**  
-- **Vulnerability Identification & Mitigation**  
-- **SIEM Configuration & Log Analysis**  
-- **Incident Response Planning**  
-- **Security Framework Implementation**  
-
----
-
-## Key Learnings and Recommendations
-
-- **Centralized Asset Tracking:** A well-maintained **Configuration Management Database (CMDB)** is critical for effective security monitoring.  
-- **Proactive Vulnerability Management:** Regular scans and audits help identify and remediate risks before they are exploited.  
-- **Layered Defense Strategies:** Implementing **multi-factor authentication (MFA)**, **IP whitelisting**, and **input validation** significantly reduces the attack surface.  
-- **Continuous Monitoring:** Enhancing SIEM rules and integrating additional data sources improves threat detection capabilities.  
-
----
-
-## Conclusion
-
-This project deepened my understanding of **threat modeling** and **attack surface analysis** in a real-world scenario. By identifying critical vulnerabilities and proposing actionable recommendations, I helped Xibalba Interactive strengthen their security posture and prepare for future threats. This experience reinforced the importance of **proactive risk management** and **layered defense strategies** in cybersecurity.
-
----
-
-📌 **For more insights, visit my [GitHub Profile](https://github.com/EnoMada) or [LinkedIn Profile](https://www.linkedin.com/in/kylesportfolio/)!**
+- [RCI Security Posture Assessment](assess-business-security-posture.md)
+- [Tempus Fugit Network Modernization](tempus_fugit_network.md)
+- [Project Portfolio](../projects.md)

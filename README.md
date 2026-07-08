@@ -1,94 +1,97 @@
+<div align="center">
+
 # Kyle Gill
 
-**Technical Systems | Cybersecurity | AI Workflow Automation | Enablement**
+### Technical Systems | Cybersecurity | AI Workflow Automation | Enablement
 
-I build systems that make complex work more repeatable, visible, and actionable. My background spans field enablement, operations leadership, Security+ certified cybersecurity work, and AI-assisted workflow design.
+[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--701-0B6E69?style=for-the-badge)](certifications.md)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Evidence%20Backed-1F4E79?style=for-the-badge)](projects.md)
+[![AI Workflows](https://img.shields.io/badge/AI%20Workflow%20Automation-Systems%20Design-6B4EFF?style=for-the-badge)](career-snapshot.md)
+[![Contact](https://img.shields.io/badge/Contact-Professional%20Links-333333?style=for-the-badge)](contact.md)
 
-This GitHub is being organized as a **Technical Career Intelligence System (TCIS)**: an evidence-first portfolio that connects projects, skills, tools, and target technical roles without overstating project provenance or impact.
+I build practical systems for security operations, technical enablement, and AI-assisted workflow design.
 
-## Current focus
-
-- **Cybersecurity:** detection engineering, incident response, vulnerability management, security architecture
-- **AI workflow automation:** agentic workflows, process automation, knowledge systems, human-in-the-loop design
-- **Technical operations:** systems thinking, governance, escalation workflows, measurable execution
-- **Technical enablement:** translating complex systems into clear, repeatable behavior
-
-## Featured systems
-
-### Technical Career Intelligence System
-
-A structured registry and automation layer that maps projects to evidence, skills, role families, freshness, and portfolio readiness.
-
-`Python` `JSON Schema` `GitHub Actions` `Knowledge Management` `Portfolio Automation`
-
-### AI Workflow Automation Lab
-
-A case-study and prototype environment for AI-enabled systems, including career intelligence, project capture, business planning, and recruiter-conversion workflows.
-
-`AI Automation` `Workflow Design` `ChatGPT` `Codex` `Human-in-the-Loop`
-
-### Security Detection Engineering Lab
-
-Reproducible security telemetry and detection work across Wazuh, PowerShell logging, Sysmon, ATT&CK-aligned validation, and adversary emulation.
-
-`Wazuh` `PowerShell` `Sysmon` `Atomic Red Team` `MITRE ATT&CK`
-
-### Incident Response Casebook
-
-Evidence-backed investigations and response cases covering credential attacks, ransomware triage, packet analysis, Splunk correlation, and incident reporting.
-
-`Splunk` `Wireshark` `DFIR` `Incident Response` `Threat Analysis`
-
-### MegaQuagga Security Program
-
-A multi-phase security lifecycle spanning vulnerability assessment, penetration validation, remediation, and asset discovery/CMDB visibility.
-
-`Nessus` `Nmap` `Metasploit` `ModSecurity` `pfSense` `iTop`
-
-### Security Architecture Casebook
-
-Threat modeling, business-security posture, network modernization, and acquisition-readiness case studies.
-
-`Threat Modeling` `Risk Analysis` `Network Architecture` `Security Consulting`
-
-## Credentials
-
-- **CompTIA Security+ (SY0-701)**, certified July 17, 2025
-- **Google Cybersecurity Professional Certificate**
-- **TripleTen Cybersecurity Program**, completed 2025
-
-See [certifications.md](certifications.md) for current details.
-
-## Evidence standard
-
-Every TCIS project is labeled by:
-
-- **Project type:** Professional System, Independent Build, Guided Lab, Scenario-Based Case Study, Prototype, or Coursework
-- **Status:** design, prototype, lab, completed, maintained, or archived
-- **Evidence level:** E0 unverified through E4 externally/production validated
-
-Quantitative claims are published only when a source, baseline, method, and evidence record exist.
-
-## Career direction
-
-Current role families supported by this portfolio:
-
-- SOC Analyst
-- Incident Response / DFIR
-- Threat Hunting
-- Detection Engineering
-- Security Automation
-- Vulnerability Management
-- AI Workflow Automation
-- Technical Enablement
-- Solutions / Technical Consulting
-- Technical Operations / Program Management
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/kylesportfolio/)
-- [Contact](contact.md)
+</div>
 
 ---
 
-**Portfolio principle:** evidence before adjectives, provenance before promotion.
+## Start Here
+
+| Destination | What You Will Find |
+|---|---|
+| [Projects](projects.md) | Cybersecurity, architecture, incident response, and AI workflow case studies |
+| [Career Snapshot](career-snapshot.md) | Verified public positioning and capability domains |
+| [Certifications](certifications.md) | Security+ and technical training status |
+| [Contact](contact.md) | Canonical professional links |
+
+## Portfolio Signal
+
+This GitHub is being rebuilt as a Technical Career Intelligence System: a portfolio where each project is tied to provenance, evidence, skills, role families, and known limitations.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Security Operations</h3>
+      <p>Incident triage, Wazuh and Splunk labs, PowerShell telemetry, packet analysis, and DFIR-style case writing.</p>
+      <p><a href="projects.md#incident-response-and-dfir">Incident Response Work</a></p>
+    </td>
+    <td width="50%">
+      <h3>Detection Engineering</h3>
+      <p>Log-source expansion, detection validation, ATT&CK-aligned testing, and SIEM workflow documentation.</p>
+      <p><a href="projects/sprint11_wazuh_logsource.md">PowerShell + Wazuh Case</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Security Architecture</h3>
+      <p>Threat modeling, risk assessment, modernization proposals, and business-security translation.</p>
+      <p><a href="projects.md#security-architecture-and-risk">Architecture Casebook</a></p>
+    </td>
+    <td width="50%">
+      <h3>AI Workflow Automation</h3>
+      <p>Governed project capture, career intelligence workflows, reusable templates, and human-in-the-loop operating systems.</p>
+      <p><a href="career-snapshot.md#ai-workflow-automation">AI Workflow Snapshot</a></p>
+    </td>
+  </tr>
+</table>
+
+## Featured Work
+
+| Project | Domain | Why It Matters |
+|---|---|---|
+| [PowerShell Log Source Integration with Wazuh](projects/sprint11_wazuh_logsource.md) | Detection Engineering | Shows telemetry planning, SIEM ingestion, and validation thinking |
+| [Credential Attack Triage and Response](projects/Brute_force_detection.md) | Incident Response | Shows alert triage, packet review, Splunk correlation, and response writing |
+| [Cerber Ransomware Triage](projects/cerber_ransomware_triage.md) | DFIR | Shows timeline building, indicator review, and forensic correlation |
+| [MegaQuagga Security Program](projects.md#megaquagga-security-program) | Vulnerability Management | Shows assessment, validation, remediation, and asset-visibility workflow |
+| [Security Architecture Casework](projects.md#security-architecture-and-risk) | Architecture / Consulting | Shows risk translation, modernization planning, and threat modeling |
+
+## Evidence Standard
+
+Every public project should answer four questions:
+
+| Question | Portfolio Standard |
+|---|---|
+| What kind of work is this? | Guided lab, coursework, scenario case study, independent build, or professional system |
+| What evidence exists? | E0 unverified through E4 externally validated |
+| What can be claimed? | Only what the evidence supports |
+| What is still missing? | Limitations and next evidence steps are stated plainly |
+
+## Current Direction
+
+I am focused on roles and work that combine:
+
+- SOC analysis and incident response
+- Detection engineering and security automation
+- Vulnerability management and security architecture
+- AI workflow automation and technical enablement
+- Technical operations, systems design, and consulting-oriented delivery
+
+---
+
+<div align="center">
+
+**Evidence before adjectives. Provenance before promotion.**
+
+[Projects](projects.md) | [Career Snapshot](career-snapshot.md) | [Certifications](certifications.md) | [Contact](contact.md)
+
+</div>

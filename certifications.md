@@ -1,31 +1,30 @@
 # Certifications and Technical Training
 
-## CompTIA Security+ (SY0-701)
+[Back to profile](README.md) | [Projects](projects.md) | [Contact](contact.md)
 
-- **Status:** Active
-- **Certified:** July 17, 2025
-- **Expires:** July 17, 2028
-- **Issuer:** CompTIA
-- **Verification:** Use the official CompTIA verification link published with the credential owner's approved public metadata.
+![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--701-0B6E69)
+![Google](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-1F4E79)
+![Training](https://img.shields.io/badge/Training-TripleTen%20Cybersecurity-333333)
 
-Public GitHub should not expose private verification codes.
+## Credentials
 
-## Google Cybersecurity Professional Certificate
+| Credential | Status | Notes |
+|---|---|---|
+| CompTIA Security+ (SY0-701) | Active | Certified July 17, 2025; expires July 17, 2028 |
+| Google Cybersecurity Professional Certificate | Completed | Public badge should use the canonical Credly URL after validation |
+| TripleTen Cybersecurity Program | Completed in 2025 | Represented through incident response, SIEM, vulnerability management, network security, and security-assessment project work |
 
-- **Issuer:** Google / Coursera
-- **Status:** Completed
-- **Public badge:** Use the canonical Credly badge URL after validation.
+## Verification Policy
 
-## TripleTen Cybersecurity Program
+Public GitHub should not expose private credential IDs, verification codes, or non-public certification metadata.
 
-- **Status:** Completed in 2025
-- **Focus represented in portfolio:** incident response, SIEM, vulnerability management, security assessment, network security, and related project work.
+Use official verification channels only with the credential owner's approved public metadata.
 
-## Governance
+## Review Cadence
 
-Certification status is reviewed at least every 180 days and immediately after:
+Certification status should be reviewed:
 
-- renewal;
-- expiration;
-- suspension;
-- new credential completion.
+- at least every 180 days;
+- after renewal;
+- after expiration;
+- after new credential completion.
