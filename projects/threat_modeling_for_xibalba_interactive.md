@@ -15,9 +15,7 @@ In this project, I conducted a comprehensive **threat modeling exercise** for **
 
 ## Attached Files
 
-- [View Threat Modeling Worksheet](#) *(Insert link once uploaded)*  
-- [View Vulnerability Assessment Report](#) *(Insert link once uploaded)*  
-- [View SIEM Configuration Documentation](#) *(Insert link once uploaded)*  
+- Artifact links are pending upload and evidence validation.
 
 ---
 

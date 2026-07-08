@@ -108,16 +108,7 @@ Security-Posture-Assessment/
 
 ## 🔗 Related Projects  
 
-1. [Incident Response Playbook Development](#)  
-2. [Risk-Based Security Audit](#)  
-3. [SIEM Log Analysis & Threat Hunting](#)  
+- Related project links are pending TCIS migration and evidence validation.
 
 ---
 
-## ⬇️ **Clone Repository**  
-
-```bash
-git clone https://github.com/yourusername/security-posture-assessment.git
-```
-
----

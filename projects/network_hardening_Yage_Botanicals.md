@@ -115,16 +115,7 @@ Network-Modernization/
 
 ## 🔗 Related Projects  
 
-1. [Cloud Security & Zero Trust Architecture](#)  
-2. [SOC Alert Triage & Incident Response](#)  
-3. [Enterprise Asset Management & CMDB](#)  
+- Related project links are pending TCIS migration and evidence validation.
 
 ---
 
-## ⬇️ **Clone Repository**  
-
-```bash
-git clone https://github.com/yourusername/network-modernization.git
-```
-
----

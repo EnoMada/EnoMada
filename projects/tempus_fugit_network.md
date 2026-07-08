@@ -134,16 +134,7 @@ Tempus-Fugit-Network-Security/
 
 ## 🔗 Related Projects  
 
-1. [Enterprise Asset Management & CMDB](#)  
-2. [Firewall Rule Optimization & Security Hardening](#)  
-3. [Zero Trust Network Segmentation](#)  
+- Related project links are pending TCIS migration and evidence validation.
 
 ---
 
-## ⬇️ **Clone Repository**  
-
-```bash
-git clone https://github.com/yourusername/tempus-fugit-network-security.git
-```
-
----

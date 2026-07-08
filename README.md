@@ -1,146 +1,94 @@
-# 🛡️ **Kyle Gill – Cybersecurity Analyst**
+# Kyle Gill
 
-#### 🔍 SOC Analyst | Threat Hunter | Incident Responder
+**Technical Systems | Cybersecurity | AI Workflow Automation | Enablement**
 
-> **"From managing operational risks to securing digital infrastructures, I bring precision, adaptability, and an attacker's mindset to cybersecurity."**
+I build systems that make complex work more repeatable, visible, and actionable. My background spans field enablement, operations leadership, Security+ certified cybersecurity work, and AI-assisted workflow design.
 
----
+This GitHub is being organized as a **Technical Career Intelligence System (TCIS)**: an evidence-first portfolio that connects projects, skills, tools, and target technical roles without overstating project provenance or impact.
 
-## 🚀 **Welcome to My Cybersecurity Portfolio**
+## Current focus
 
-I’m a hands-on cybersecurity professional with a background in operations and a proven ability to pivot into advanced threat detection, incident response, and security architecture. This portfolio highlights my transition from retail leadership to security operations through real-world projects, adversary simulations, and SIEM tuning.
+- **Cybersecurity:** detection engineering, incident response, vulnerability management, security architecture
+- **AI workflow automation:** agentic workflows, process automation, knowledge systems, human-in-the-loop design
+- **Technical operations:** systems thinking, governance, escalation workflows, measurable execution
+- **Technical enablement:** translating complex systems into clear, repeatable behavior
 
-- 🎯 **Triage | Investigate | Respond** — Mastering SIEM tools and packet-level forensics  
-- 🧠 **From the Ground Up** — Building detection pipelines, testing alerts, and refining response workflows  
-- 📈 **Results-Driven** — Proving skills through measurable threat mitigation and enriched alert data
+## Featured systems
 
----
+### Technical Career Intelligence System
 
-## 🔗 **Quick Navigation**
+A structured registry and automation layer that maps projects to evidence, skills, role families, freshness, and portfolio readiness.
 
-📂 [Projects](projects.md) | 🎓 [Certifications](certifications.md) | 📄 [Resume](resume.md) | 📧 [Contact](contact.md)
+`Python` `JSON Schema` `GitHub Actions` `Knowledge Management` `Portfolio Automation`
 
----
+### AI Workflow Automation Lab
 
-## 🛠️ **Core Competencies**
+A case-study and prototype environment for AI-enabled systems, including career intelligence, project capture, business planning, and recruiter-conversion workflows.
 
-| **Technical Skills**                      | **Cybersecurity Tools**          |
-|------------------------------------------|----------------------------------|
-| 🔹 Threat Detection & Log Analysis       | 🔹 Splunk, ELK Stack              |
-| 🔹 SIEM & IDS/IPS Monitoring             | 🔹 Suricata, Zeek                 |
-| 🔹 Vulnerability & Risk Assessment       | 🔹 Nessus, OpenVAS                |
-| 🔹 Penetration Testing & Ethical Hacking | 🔹 Kali Linux, Metasploit         |
-| 🔹 Incident Response & Malware Analysis  | 🔹 Wireshark, CyberChef           |
+`AI Automation` `Workflow Design` `ChatGPT` `Codex` `Human-in-the-Loop`
 
----
+### Security Detection Engineering Lab
 
-## 🏆 **Certifications & Training**
+Reproducible security telemetry and detection work across Wazuh, PowerShell logging, Sysmon, ATT&CK-aligned validation, and adversary emulation.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="http://verify.CompTIA.org" target="_blank">
-        <img src="assets/images/Security+-png.png" alt="CompTIA Security+ Badge" width="150">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url" target="_blank">
-        <img src="assets/images/googlebadge.png" alt="Google Cybersecurity Certificate" width="150">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>CompTIA Security+ (SY0-701)</strong><br>
-      Certified: July 17, 2025<br>
-      Expiration: July 17, 2028<br>
-      Credential ID: COMP001022846030
-    </td>
-    <td align="center">
-      <strong>Google Cybersecurity Certificate</strong><br>
-      Issued by Google & Coursera<br>
-      Badge: <a href="https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url" target="_blank">View on Credly</a>
-    </td>
-  </tr>
-</table>
+`Wazuh` `PowerShell` `Sysmon` `Atomic Red Team` `MITRE ATT&CK`
 
----
+### Incident Response Casebook
 
-- 📌 **TripleTen Cybersecurity Bootcamp**  
-  Intensive 7-month program: Incident Response, SIEM, MITRE ATT&CK, and Security+ Prep.
+Evidence-backed investigations and response cases covering credential attacks, ransomware triage, packet analysis, Splunk correlation, and incident reporting.
 
+`Splunk` `Wireshark` `DFIR` `Incident Response` `Threat Analysis`
 
----
+### MegaQuagga Security Program
 
-## 📂 **Featured Projects**
+A multi-phase security lifecycle spanning vulnerability assessment, penetration validation, remediation, and asset discovery/CMDB visibility.
 
-### 🧪 **Credential Stuffing Detection & Response**  
-**Tools:** Wireshark, Splunk, ModSecurity  
-**Skills:** WAF alert triage, packet capture analysis, SIEM correlation  
-📌 [View Project](projects/Brute_force_detection.md)
+`Nessus` `Nmap` `Metasploit` `ModSecurity` `pfSense` `iTop`
 
-### 🛡️ **SOC Incident Response Simulation**  
-**Tools:** Splunk, Wireshark, CyberChef  
-**Skills:** Log analysis, alert enrichment, IR workflows  
-📌 [View Project](projects.md#incident-response)
+### Security Architecture Casebook
 
-### 🚀 **Penetration Testing & Firewall Configurations**  
-**Tools:** pfSense, Metasploit, Kali Linux  
-**Skills:** Exploitation, risk mitigation, attack surface analysis  
-📌 [View Project](projects.md#penetration-testing)
+Threat modeling, business-security posture, network modernization, and acquisition-readiness case studies.
 
-### 🌐 **Network Forensics & Traffic Analysis**  
-**Tools:** Wireshark, Zeek, Suricata  
-**Skills:** Packet inspection, anomaly detection, web traffic analysis  
-📌 [View Project](projects.md#network-forensics)
+`Threat Modeling` `Risk Analysis` `Network Architecture` `Security Consulting`
+
+## Credentials
+
+- **CompTIA Security+ (SY0-701)**, certified July 17, 2025
+- **Google Cybersecurity Professional Certificate**
+- **TripleTen Cybersecurity Program**, completed 2025
+
+See [certifications.md](certifications.md) for current details.
+
+## Evidence standard
+
+Every TCIS project is labeled by:
+
+- **Project type:** Professional System, Independent Build, Guided Lab, Scenario-Based Case Study, Prototype, or Coursework
+- **Status:** design, prototype, lab, completed, maintained, or archived
+- **Evidence level:** E0 unverified through E4 externally/production validated
+
+Quantitative claims are published only when a source, baseline, method, and evidence record exist.
+
+## Career direction
+
+Current role families supported by this portfolio:
+
+- SOC Analyst
+- Incident Response / DFIR
+- Threat Hunting
+- Detection Engineering
+- Security Automation
+- Vulnerability Management
+- AI Workflow Automation
+- Technical Enablement
+- Solutions / Technical Consulting
+- Technical Operations / Program Management
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kylesportfolio/)
+- [Contact](contact.md)
 
 ---
 
-## 📊 **Cybersecurity Impact Metrics**
-
-**Incident Response Execution**  
-🔹 90% efficiency across alert triage, enrichment, and response timelines
-
-**SIEM & Threat Hunting Proficiency**  
-🔹 85% correlation accuracy using multi-source telemetry and behavioral pivoting
-
----
-
-## 🧠 **How I Think as an Analyst**
-
-I approach cybersecurity the same way I used to manage high-pressure retail ops: with clarity, urgency, and attention to what *really matters*. Here’s how I operate in the SOC mindset:
-
-- 🚨 Every alert is a puzzle — I don’t just mute it, I *prove it false or true*  
-- 🔁 I prioritize fast dispositioning: reduce noise, surface threats  
-- 🔍 I pivot fast — from logs to packets, from endpoints to context  
-- 🧩 I write clear, human-readable timelines, not just event IDs  
-- 📚 I log everything — not just for the record, but to train my future self  
-
----
-
-## 📚 **Currently Exploring**
-
-To deepen my capabilities as a SOC Analyst and future Detection Engineer, I'm actively learning:
-
-- 🛠 Writing Sigma rules for alerting patterns I’ve already triaged manually  
-- ⚙️ Correlating Wazuh, Zeek, and Suricata data for full traffic visibility  
-- 🧠 MITRE ATT&CK mapping + Red Canary tradecraft analysis  
-- 🌐 Cloud log analysis and detection strategy (GCP / AWS / Azure)  
-
----
-
-## 🎯 **Why Hire Me?**
-
-✅ **Real-World Threat Analysis** — Enriched WAF alerts, confirmed valid account compromise, and led full response cycle  
-✅ **Precision + Adaptability** — From packet captures to Splunk queries, I adapt quickly and triage with intent  
-✅ **Strategic Perspective** — I think like an attacker, report like a responder, and communicate like a leader  
-
----
-
-## 📩 **Contact Me**
-
-📧 **Email:** [KyleGSecurity@proton.me](mailto:KyleGSecurity@proton.me)  
-💼 **LinkedIn:** [Kyle’s Profile](https://www.linkedin.com/in/kylesportfolio/)  
-📌 **GitHub:** [github.com/KyleGillCyber](https://github.com/EnoMada)
-
----
+**Portfolio principle:** evidence before adjectives, provenance before promotion.

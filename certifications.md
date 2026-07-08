@@ -1,14 +1,31 @@
-# Certifications
+# Certifications and Technical Training
 
-Here are my cybersecurity certifications:
+## CompTIA Security+ (SY0-701)
 
-- **Cybersecurity Bootcamp Projects**  
-  Description or context about the bootcamp projects.
+- **Status:** Active
+- **Certified:** July 17, 2025
+- **Expires:** July 17, 2028
+- **Issuer:** CompTIA
+- **Verification:** Use the official CompTIA verification link published with the credential owner's approved public metadata.
 
-- **Google Professional Cybersecurity Certificate**
-  Details such as the issue date or topics covered.
+Public GitHub should not expose private verification codes.
 
-- **Security+ Certificate (In Progress)**  
-  Expected completion date or current status.
+## Google Cybersecurity Professional Certificate
 
-<!-- Add more certifications as needed -->
+- **Issuer:** Google / Coursera
+- **Status:** Completed
+- **Public badge:** Use the canonical Credly badge URL after validation.
+
+## TripleTen Cybersecurity Program
+
+- **Status:** Completed in 2025
+- **Focus represented in portfolio:** incident response, SIEM, vulnerability management, security assessment, network security, and related project work.
+
+## Governance
+
+Certification status is reviewed at least every 180 days and immediately after:
+
+- renewal;
+- expiration;
+- suspension;
+- new credential completion.

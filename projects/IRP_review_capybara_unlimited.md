@@ -113,16 +113,7 @@ Incident-Response-Plan/
 
 ## 🔗 Related Projects  
 
-1. [Incident Response Tabletop Exercise](#)  
-2. [Security Operations Playbook Development](#)  
-3. [SOC Alert Triage & Investigation](#)  
+- Related project links are pending TCIS migration and evidence validation.
 
 ---
 
-## ⬇️ **Clone Repository**  
-
-```bash
-git clone https://github.com/yourusername/incident-response-plan.git
-```
-
----

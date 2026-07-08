@@ -175,5 +175,5 @@ graph TD;
 
 🚀 Ready to discuss cybersecurity opportunities or collaborate?
 
-📧 [Email Me](mailto:kylegill30@yahoo.com)
+📧 [Email Me](mailto:KyleGSecurity@proton.me)
 🔗 [LinkedIn](https://www.linkedin.com/in/kylesportfolio/)

@@ -112,16 +112,8 @@ Enterprise-Asset-Discovery-MegaQuagga/
 
 ## 🔗 Related Projects
 
-1. [MegaQuagga Penetration Test](projects/MegaQuagga_pentesting_report_preparation.md)  
-2. [Vulnerability Remediation for MegaQuagga](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md)  
-3. 
+1. [MegaQuagga Penetration Test](MegaQuagga_pentesting_report_preparation.md)  
+2. [Vulnerability Remediation for MegaQuagga](Vulnerability%20Remediation%20for%20MegaQuagga.md)  
 
 ---
 
-## ⬇️ **Clone Repository**
-
-```bash
-git clone https://github.com/yourusername/enterprise-asset-discovery-megaquagga.git
-```
-
----
