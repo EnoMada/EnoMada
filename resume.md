@@ -1,112 +1,66 @@
-<p align="center">
-  <img src="assets/images/Security+-png.png" alt="CompTIA Security+ Badge" width="140"/>
-</p>
+# Resume Access
 
-## 🛡️ Kyle Gill  
-**Cybersecurity Analyst**  
-**SOC Analyst | Threat Hunter | Incident Responder**   
-📧 KyleGSecurity@proton.me | 📞 (773) 998‑0069  
-🔗 [LinkedIn](https://linkedin.com/in/enomada) • [GitHub](https://github.com/EnoMada)
+<div align="center">
 
----
+### Recruiter and Hiring Manager Fast Path
 
-## 🧩 Summary
+[![Request Resume](https://img.shields.io/badge/Request%20Current%20Resume-Email%20Kyle-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:KyleGSecurity@proton.me?subject=Resume%20Request%20-%20Kyle%20Gill&body=Hi%20Kyle%2C%0A%0AI%27d%20like%20to%20request%20your%20current%20resume.%0A%0ARole%20or%20opportunity%3A%0ACompany%3A%0AUseful%20context%3A%0A)
+[![Project Portfolio](https://img.shields.io/badge/Review%20Portfolio-Projects-1F4E79?style=for-the-badge)](projects.md)
+[![Career Snapshot](https://img.shields.io/badge/Career%20Snapshot-Verified%20Summary-0B6E69?style=for-the-badge)](career-snapshot.md)
+[![Certifications](https://img.shields.io/badge/Certifications-Security%2B%20%7C%20Google-333333?style=for-the-badge)](certifications.md)
 
-Certified cybersecurity analyst with a background in operational leadership, escalation management, and access control. Skilled in SIEM alert triage, log analysis, and NIST-aligned incident response. Security+ certified with hands-on experience simulating SOC workflows, building CMDB systems, and managing identity access reviews. Known for translating business operations into secure, policy-driven protocols with a Blue Team mindset.
+[Back to profile](README.md) | [Projects](projects.md) | [Contact](contact.md)
 
----
-
-## 💼 Professional Experience
-
-### **Cyber Operations Analyst (Promotion Pathway)**  
-**DSG LLC – Worth & Co.**  
-*Houston, TX | Hybrid | May 2024 – July 2025*
-
-**Retail Operations Manager**  
-- Coordinated secure delivery workflows across 450+ annual transactions, overseeing $2M+ in merchandise under strict audit protocols.  
-- Achieved 98% accuracy across digital order pipelines and improved SLA metrics by 20%.  
-- Designed membership onboarding protocols with role-based access logic for 1,200+ users.  
-- Authored SOPs and escalation playbooks adopted company-wide to standardize service recovery and reporting.  
-- Maintained 95%+ satisfaction by managing operational escalations and reconciling exceptions.
-
-**Senior Support Specialist**  
-*Jan 2024 – Apr 2024*  
-- Reduced escalation turnaround by 40% through standardized triage templates and internal alert documentation.  
-- Mentored junior staff on fulfillment audits and exception-handling processes.  
-- Onboarded 100+ CRM partners using access-tiered workflows and communication controls.
-
-**Support Analyst**  
-*Apr 2023 – Dec 2023*  
-- Supported daily processing of $200K+ merchandise with traceable logging and verified dispatch coordination.  
-- Maintained accuracy across intake, invoicing, and delivery coordination systems.  
-- Acted as liaison between logistics, warehouse, and sales to ensure policy-aligned service execution.
+</div>
 
 ---
 
-### **Physical Security & Escalation Analyst**  
-**Louis Vuitton (LVMH)**  
-*Houston, TX | Nov 2019 – May 2022*  
-- Enforced physical access and secure transfer protocols across high-value inventory operations.  
-- Managed $2M+ weekly shipments and reconciled $25M+ in monthly stock with integrity controls.  
-- Resolved 115+ client escalations involving potential fraud, identity disputes, and fulfillment anomalies.  
-- Led cross-department collaboration to address recurring risk patterns and refine SOPs.
+## Recruiter Brief
 
----
+Kyle Gill combines operations leadership, technical enablement, cybersecurity training, and AI workflow automation into a portfolio built around evidence-backed project work.
 
-## 🧠 Cybersecurity Projects
+| What To Review | Why It Matters |
+|---|---|
+| [Project Portfolio](projects.md) | Shows cybersecurity, detection, incident response, architecture, and AI workflow case studies |
+| [Career Snapshot](career-snapshot.md) | Gives a verified public summary of positioning and capability domains |
+| [Certifications](certifications.md) | Confirms Security+, Google Cybersecurity training, and TripleTen cybersecurity program completion |
+| [Contact](contact.md) | Provides the professional contact path for resume requests and role conversations |
 
-### 🔹 Security Monitoring & Response Simulation  
-Simulated 24/7 SOC operations with incident playbooks, shift logs, and user access reviews aligned to NIST IR guidance. Coordinated escalation handoffs and documented alert responses in a mock enterprise environment.
+## Resume Access
 
-### 🔹 SIEM Alert Triage & Escalation Design  
-Used Splunk/Wazuh to identify suspicious login behavior, unauthorized access attempts, and lateral movement. Created multi-tier escalation playbooks and documented investigation paths.
+The current resume is available by request so the shared version can stay accurate, role-relevant, and privacy-reviewed.
 
-### 🔹 CMDB & Access Control Audit  
-Mapped 30+ enterprise assets using Nmap and LDAP queries, building a CMDB in iTop. Identified badge and access discrepancies, producing a risk mitigation report for SOC visibility.
+| Need | Action |
+|---|---|
+| Current resume PDF | [Request by email](mailto:KyleGSecurity@proton.me?subject=Resume%20Request%20-%20Kyle%20Gill&body=Hi%20Kyle%2C%0A%0AI%27d%20like%20to%20request%20your%20current%20resume.%0A%0ARole%20or%20opportunity%3A%0ACompany%3A%0AUseful%20context%3A%0A) |
+| Portfolio validation | Start with [Projects](projects.md) |
+| Skills and positioning | Open [Career Snapshot](career-snapshot.md) |
+| Certification review | Open [Certifications](certifications.md) |
 
-### 🔹 Penetration Testing – MegaQuagga Publishing  
-Used Metasploit and WPScan to test for WordPress plugin and firewall misconfigurations. Delivered documentation aligned with NIST SP 800-115 and OWASP Top 10 standards.
+## Target Role Families
 
----
+| Role Family | Portfolio Evidence |
+|---|---|
+| SOC Analyst | Alert triage, SIEM workflows, packet analysis, incident writing |
+| Incident Response / DFIR | Credential attack triage, ransomware correlation, IR plan review |
+| Detection Engineering | PowerShell telemetry, Wazuh ingestion, ATT&CK-aligned validation |
+| Vulnerability Management | MegaQuagga assessment, validation, remediation, and asset visibility series |
+| Security Architecture / Consulting | Threat modeling, security posture assessment, modernization planning |
+| AI Workflow Automation | Project capture, career intelligence systems, governed human-in-the-loop workflows |
+| Technical Enablement / Operations | Documentation systems, escalation workflows, process translation, operational governance |
 
-## 🏆 Certifications
+## High-Signal Project Links
 
-- ✅ **CompTIA Security+ (SY0-701)**  
-  *Issued:* July 17, 2025 | *Expires:* July 17, 2028  
-  Credential ID: `COMP001022846030`  
-  Code: `9N7R7VHYV2BEQ712`  
-  🔗 [Verify](http://verify.CompTIA.org)
+| Signal | Project |
+|---|---|
+| Detection engineering | [PowerShell Log Source Integration with Wazuh](projects/sprint11_wazuh_logsource.md) |
+| Incident triage | [Credential Attack Triage and Response](projects/Brute_force_detection.md) |
+| DFIR-style investigation | [Cerber Ransomware Triage and Forensic Correlation](projects/cerber_ransomware_triage.md) |
+| Vulnerability lifecycle | [MegaQuagga Security Program](projects.md#megaquagga-security-program) |
+| Architecture and risk | [Security Architecture and Risk](projects.md#security-architecture-and-risk) |
 
-- 📌 **Google Cybersecurity Certificate**  
-  *Issued via Coursera / Credly*  
-  [View Badge](https://www.credly.com/badges/63c32f46-7d6f-4b43-8b9c-f709e0698790/public_url)
+## Privacy Boundary
 
-- 📌 **TripleTen Cybersecurity Bootcamp**  
-  *Completed:* June 2025
+This public page intentionally does not publish a phone number, private address, recruiter records, application history, credential verification codes, or a stale resume file.
 
----
-
-## 🧰 Technical Skills
-
-| Category                     | Tools & Frameworks                                         |
-|-----------------------------|-------------------------------------------------------------|
-| **SIEM & Detection**        | Splunk, Wazuh, Sysmon Logs, Windows Event Viewer           |
-| **Threat Simulation**       | Metasploit, Burp Suite, Atomic Red Team                    |
-| **Scanning & Analysis**     | Nmap, WPScan, Wireshark                                    |
-| **Incident Response**       | NIST CSF, MITRE ATT&CK, Alert Playbooks                    |
-| **Compliance & Auditing**   | Access Control Reviews, SOP Drafting, Documentation Logs   |
-| **Operations Tools**        | Outlook, SharePoint, Teams, CRMS, Excel Reporting          |
-
----
-
-## 📎 Projects & Portfolio
-
-🔗 **GitHub Portfolio:** [github.com/EnoMada](https://github.com/EnoMada)  
-Explore hands-on cybersecurity labs, detection engineering projects, and SIEM rule tuning examples.
-
-🔗 **LinkedIn Profile:** [linkedin.com/in/enomada](https://linkedin.com/in/enomada)
-
----
-
-> 🧠 “From risk management in operations to securing digital infrastructures, I bring precision, adaptability, and an attacker’s mindset to cybersecurity.”
-
+For hiring conversations, use the email request link above.
