@@ -1,179 +1,108 @@
-# 🚀 **Cybersecurity Projects**
+# Project Portfolio
 
-### **Hands-on Security Implementations & Real-World Problem Solving**
+This is the portfolio hub for the current GitHub profile. It is organized for quick review first, then deeper drill-down into individual project pages.
 
-This page showcases my cybersecurity expertise, organized to highlight real-world impact and practical experience—tailored specifically to demonstrate readiness for an **SOC Analyst** role.
-
----
-
-## 📊 **Skill Proficiency Snapshot**
-
-![SOC Skills](https://img.shields.io/badge/SOC%20Skills-Advanced-2A9D8F)
-![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-Advanced-2A9D8F)
-![SIEM Tuning](https://img.shields.io/badge/SIEM%20Configuration-Wazuh%20%26%20Sysmon-264653)
-![PowerShell Logging](https://img.shields.io/badge/PowerShell%20Monitoring-Enabled%20%26%20Tested-2A9D8F)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-Intermediate-264653)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-Expert-2A9D8F)
+[Back to profile](README.md) | [Career snapshot](career-snapshot.md) | [Contact](contact.md)
 
 ---
 
-## 🛠️ **Tools & Technologies Used Across Projects**
+## Portfolio Map
 
-`Wireshark` | `Metasploit` | `Nmap` | `Splunk` | `pfSense` | `Burp Suite` | `SIEM Analysis` | `Python` | `Wazuh` | `Sysmon` | `Atomic Red Team` | `iTop CMDB` | `Group Policy (GPO)` | `ATT&CK Simulation` | `Incident Response Playbooks`
+| Domain | Project | Type | Evidence | Link |
+|---|---|---:|---:|---|
+| Detection Engineering | PowerShell Log Source Integration with Wazuh | Guided Lab | E1 | [Open](projects/sprint11_wazuh_logsource.md) |
+| Incident Response | Credential Attack Triage and Response | Guided Lab | E2 | [Open](projects/Brute_force_detection.md) |
+| Incident Response / DFIR | Cerber Ransomware Triage and Forensic Correlation | Guided Lab | E2 | [Open](projects/cerber_ransomware_triage.md) |
+| Vulnerability Management | MegaQuagga Penetration Validation | Coursework | E1 | [Open](projects/MegaQuagga_pentesting_report_preparation.md) |
+| Vulnerability Management | MegaQuagga Vulnerability Remediation | Coursework | E1 | [Open](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md) |
+| Asset Visibility | MegaQuagga Asset Discovery and CMDB | Coursework | E1 | [Open](projects/enterprise_asset_discovery.md) |
+| Incident Response Program | Capybara Incident Response Plan Review | Scenario Case Study | E1 | [Open](projects/IRP_review_capybara_unlimited.md) |
+| Risk / Security Consulting | RCI Security Posture Assessment | Scenario Case Study | E1 | [Open](projects/assess-business-security-posture.md) |
+| Threat Modeling | Xibalba Threat Modeling Case Study | Scenario Case Study | E1 | [Open](projects/threat_modeling_for_xibalba_interactive.md) |
+| Security Architecture | Tempus Fugit Network Modernization | Scenario Case Study | E1 | [Open](projects/tempus_fugit_network.md) |
+| Technical Operations | Yage Botanicals Infrastructure Modernization | Scenario Case Study | E1 | [Open](projects/network_hardening_Yage_Botanicals.md) |
 
----
-
-## 🧠 **Advanced Detection Engineering & SIEM Optimization**
-
-**Applied techniques for log source expansion, custom rule creation, and adversary emulation to enhance detection within Wazuh.**
-
-### 🧪 **PowerShell Log Source Integration with Wazuh (Sprint 11 Project)**
-
-🔹 Integrated PowerShell Operational logs into Wazuh using GPO, custom `ossec.conf` entries, and tailored Wazuh detection rules. Simulated real-world adversary behavior via Atomic Red Team to validate log visibility, including obfuscation (T1027), fileless execution, and mshta-based download cradles.
-
-![Log Source Added](https://img.shields.io/badge/Log%20Source-PowerShell%20Operational-2A9D8F)
-![Detection Coverage](https://img.shields.io/badge/Atomic%20Tests-3%20Simulated%20Attacks-264653)
-![SIEM Engineering](https://img.shields.io/badge/SIEM%20Tuning-Custom%20Wazuh%20Rules-2A9D8F)
-
-[🔍 Detailed Project](projects/sprint11_wazuh_logsource.md)
-
----
-
-## 🕷️ **MegaQuagga Project Series**
-
-**Logical Progression:** Initial vulnerability identification ➡️ penetration testing ➡️ vulnerability remediation ➡️ asset discovery & continuous monitoring.
-
-### 1️⃣ **MegaQuagga Publishing Penetration Test**
-
-🔹 Conducted full-stack ethical hacking, uncovering critical vulnerabilities and validating firewall security.
-
-![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities%20Identified-5+-2A9D8F)
-![ICMP Success](https://img.shields.io/badge/ICMP%20Success%20Rate-100%25%20Restored-264653)
-
-[🔍 Detailed Project](projects/MegaQuagga_pentesting_report_preparation.md)
-
-### 2️⃣ **Vulnerability Remediation for MegaQuagga**
-
-🔹 Implemented web application firewall, SSL encryption, and proactive defenses to remediate critical vulnerabilities and enhance security posture.
-
-![WAF Deployed](https://img.shields.io/badge/WAF%20Deployment-Completed-2A9D8F)
-![Encryption](https://img.shields.io/badge/Traffic%20Encryption-Enabled-264653)
-
-[🔍 Detailed Project](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md)
-
-### 3️⃣ **Enterprise Asset Discovery & CMDB Implementation for MegaQuagga**
-
-🔹 Conducted comprehensive asset enumeration using Nmap and integrated findings into iTop CMDB, centralizing asset management for proactive threat detection.
-
-![Assets Discovered](https://img.shields.io/badge/Assets%20Discovered-30+-2A9D8F)
-![CMDB Integration](https://img.shields.io/badge/CMDB%20Integration-iTop-264653)
-
-[🔍 Detailed Project](projects/enterprise_asset_discovery.md)
-
----
-
-## 🔥 **Incident Response & Threat Management**
-
-### 🛡️ **Incident Response Plan Optimization for Capybara Unlimited**
-
-🔹 Revitalized an outdated incident response plan aligning with NIST standards, enabling rapid threat containment and effective incident resolution.
-
-![Playbooks](https://img.shields.io/badge/Playbooks%20Developed-3+-2A9D8F)
-![Response Time](https://img.shields.io/badge/Response%20Time-30%25%20Improvement-264653)
-
-[🔍 Detailed Project](projects/IRP_review_capybara_unlimited.md)
-
-### 🧪 **Credential Stuffing Detection & Response (Sprint 12)**
-
-🔹 Triaged a high-severity ModSecurity alert involving Hydra-driven credential stuffing targeting a WordPress login endpoint. Conducted packet analysis using Wireshark, enriched findings via Splunk queries, and authored a full IR report confirming privilege escalation through valid credential use.
-
-![Log Source](https://img.shields.io/badge/Log%20Source-ModSecurity%20WAF-2A9D8F)
-![Compromise Confirmed](https://img.shields.io/badge/Accounts%20Compromised-admin%20%26%20elliot-264653)
-![Response Actions](https://img.shields.io/badge/IR%20Actions-Password%20Reset%20%26%20Forensic%20Review-2A9D8F)
-![SIEM Correlation](https://img.shields.io/badge/Splunk%20Correlation-HTTP%20302%20Pivot-264653)
-
-[🔍 Detailed Project](https://github.com/EnoMada/EnoMada/blob/main/projects/Brute_force_detection.md)
-
-### 📂 **Ransomware Triage & Forensic Correlation Report**
-
-🔹 Investigated Cerber ransomware behavior in a real-world scenario, tracing execution from obfuscated VBScript payload to outbound image-based steganographic download. Used Splunk queries across multiple log sources (`stream:http`, `stream:smb`, `WinRegistry`, `Sysmon`) to correlate adversary behavior. Enriched analysis with WHOIS, VirusTotal, and CyberChef to decode attacker infrastructure and produce an executive-level IR Triage Report.
-
-![Alert Type](https://img.shields.io/badge/Incident-Ransomware%20Delivery%20&%20Execution-2A9D8F)
-![Tools Used](https://img.shields.io/badge/Log%20Correlation-Splunk%20%7C%20CyberChef%20%7C%20OSINT-264653)
-![Scope](https://img.shields.io/badge/Affected%20System-we8105desk-2A9D8F)
-![Report](https://img.shields.io/badge/IR%20Report-Completed-2A9D8F)
-
-[📄 IR Triage Report](https://docs.google.com/document/d/1Xb8Ft57e7fKdxcfun9_eTqZqBJ64GtaxBhSNBrIs9nE/edit?tab=t.0#heading=h.o95rl4iy9z4x)  
-[📓 Investigation Notes](https://docs.google.com/document/d/1FwzT01-jFsZvm0ukrA5fmAOqaFTqVnHqtq88SSZzYpM/edit?tab=t.xxz5fu5xi7zn#heading=h.gsqa31rk4z5z)
-
-[🔍 Detailed Project](projects/cerber_ransomware_triage.md)
-
----
-
-## 🎯 **Threat Modeling & Security Assessments**
-
-### 📋 **Security Posture Assessment**
-
-🔹 Performed deep-dive security assessments, identifying threats and reducing risks through targeted improvements.
-
-![Threats Identified](https://img.shields.io/badge/Threats%20Identified-12+-2A9D8F)
-![Risk Reduction](https://img.shields.io/badge/Risk%20Reduction-25%25-264653)
-
-[🔍 Detailed Project](projects/assess-business-security-posture.md)
-
-### 🎯 **Threat Modeling for Xibalba Interactive**
-
-🔹 Implemented threat models to mitigate risks during feature deployments, enhancing security throughout the development lifecycle.
-
-![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities%20Identified-8+-2A9D8F)
-![Threat Reduction](https://img.shields.io/badge/Threat%20Surface-20%25%20Reduction-264653)
-
-[🔍 Detailed Project](projects/threat_modeling_for_xibalba_interactive.md)
-
----
-
-## 🌐 **Network & Infrastructure Modernization**
-
-### 🖥️ **Tempus Fugit Timepieces Network Modernization**
-
-🔹 Delivered secure, modernized network architecture emphasizing zero-trust principles and robust disaster recovery capabilities.
-
-![Uptime](https://img.shields.io/badge/Uptime%20Improvement-98%25-2A9D8F)
-![Devices Secured](https://img.shields.io/badge/Devices%20Secured-50+-264653)
-
-[🔍 Detailed Project](projects/tempus_fugit_network.md)
-
-### 🌿 **Network Modernization for Yagé Botanicals**
-
-🔹 Developed cost-effective network upgrades, cloud migration, and endpoint security solutions to streamline operations and enhance investor appeal.
-
-![Servers](https://img.shields.io/badge/Servers%20Consolidated-12+-2A9D8F)
-![Network Performance](https://img.shields.io/badge/Network%20Performance-40%25%20Improvement-264653)
-
-[🔍 Detailed Project](projects/network_hardening_Yage_Botanicals.md)
-
----
-
-## 📈 **Interactive Project Flowchart**
+## Flagship Track
 
 ```mermaid
-graph TD;
-  A[Cybersecurity Projects] --> B[Incident Response];
-  B --> C[Vulnerability Discovery];
-  C --> D[Vulnerability Remediation];
-  D --> E[Asset Discovery & CMDB];
-  E --> F[Threat Modeling];
-  F --> G[Security Assessments];
-  G --> H[Infrastructure Modernization];
-  H --> I[SIEM Optimization];
-
+flowchart LR
+  A["Telemetry and Detection"] --> B["Incident Triage"]
+  B --> C["Forensic Correlation"]
+  C --> D["Vulnerability Validation"]
+  D --> E["Remediation Planning"]
+  E --> F["Asset Visibility"]
+  F --> G["Architecture and Risk"]
 ```
+
+## Detection Engineering
+
+### [PowerShell Log Source Integration with Wazuh](projects/sprint11_wazuh_logsource.md)
+
+Configured PowerShell Operational logging in a lab, documented Wazuh ingestion and detection-validation experiments, and used Atomic Red Team simulations as test inputs.
+
+**Tools:** Wazuh, PowerShell logging, Windows Event logging, ATT&CK, Atomic Red Team
+
+**Current evidence note:** Event 4688 handling still needs final correction before this case should be promoted as production-grade detection engineering.
+
+## Incident Response and DFIR
+
+### [Credential Attack Triage and Response](projects/Brute_force_detection.md)
+
+Investigated a simulated WordPress login attack using WAF alerts, packet captures, and Splunk telemetry, then documented timeline, ATT&CK mapping, and response recommendations.
+
+**Tools:** Splunk, Wireshark, ModSecurity, incident triage, ATT&CK
+
+### [Cerber Ransomware Triage and Forensic Correlation](projects/cerber_ransomware_triage.md)
+
+Correlated endpoint and network telemetry in a ransomware investigation scenario and documented a timeline, indicators, ATT&CK mapping, and response recommendations.
+
+**Tools:** Splunk, Sysmon, CyberChef, OSINT, incident response
+
+### [Capybara Incident Response Plan Review](projects/IRP_review_capybara_unlimited.md)
+
+Reviewed a scenario incident response plan, identified governance gaps, and documented NIST-aligned recommendations and playbook concepts.
+
+**Tools:** NIST CSF, IR planning, playbook design, stakeholder communication
+
+## MegaQuagga Security Program
+
+This series is presented as coursework and lab-based security lifecycle work. It should become a dedicated repository after source artifacts are recovered and rights are validated.
+
+| Phase | Case | Focus |
+|---|---|---|
+| 1 | Future recovered vulnerability-assessment work | Scan evidence and initial findings |
+| 2 | [Penetration Validation](projects/MegaQuagga_pentesting_report_preparation.md) | Controlled validation with Nmap, WPScan, Metasploit, and pfSense |
+| 3 | [Vulnerability Remediation](projects/Vulnerability%20Remediation%20for%20MegaQuagga.md) | HTTPS, reverse proxy, ModSecurity, OWASP CRS, and firewall/NAT changes |
+| 4 | [Asset Discovery and CMDB](projects/enterprise_asset_discovery.md) | Nmap, PowerShell, directory queries, and iTop CMDB documentation |
+
+## Security Architecture and Risk
+
+### [RCI Security Posture Assessment](projects/assess-business-security-posture.md)
+
+Assessed a ransomware scenario, prioritized security gaps, and proposed a risk-based improvement roadmap.
+
+### [Xibalba Threat Modeling Case Study](projects/threat_modeling_for_xibalba_interactive.md)
+
+Modeled threats for a public web feature scenario, identified attack-surface concerns, and documented mitigation recommendations.
+
+### [Tempus Fugit Network Modernization](projects/tempus_fugit_network.md)
+
+Designed a modernization proposal for a legacy network scenario covering redundancy, secure remote access, cloud integration, and business continuity.
+
+### [Yage Botanicals Infrastructure Modernization](projects/network_hardening_Yage_Botanicals.md)
+
+Developed a cost-conscious infrastructure and security modernization proposal for a legacy-business acquisition scenario.
+
+## How To Read Evidence Levels
+
+| Level | Meaning |
+|---|---|
+| E0 | Concept or unverified draft |
+| E1 | Narrative or scaffold exists; artifacts still need validation |
+| E2 | Supporting report, notes, or external artifact exists |
+| E3 | Reproducible sanitized evidence is published |
+| E4 | External or production validation exists |
 
 ---
 
-## 📬 **Let's Connect!**
-
-🚀 Ready to discuss cybersecurity opportunities or collaborate?
-
-📧 [Email Me](mailto:kylegill30@yahoo.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/kylesportfolio/)
+[Back to profile](README.md) | [Contact](contact.md)
